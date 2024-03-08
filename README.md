@@ -1,4 +1,4 @@
-# veronika
+# Veronika decides to live
 
 The creative space for the book continuation.
 
