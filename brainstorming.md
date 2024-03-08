@@ -1,0 +1,3 @@
+# Brainstorming space for the book's story (characters, locations, etc)
+
+How many children? Gender of the children, etc...
