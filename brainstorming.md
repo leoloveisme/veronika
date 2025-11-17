@@ -41,6 +41,15 @@ b. Auroville is advanced enough to provide at least initial help
 ## Iceland
 
 
+During her time in Gaza she was quickly acquiring Arabic and Hebrew.
+
+I decided to go with Gaza story instead of Ukraine one. 
+
+People who want to develop the Ukrainian branch of the story will free to branch the story and finish it there. 
+
+
+Genocide and terrorism - we need to look into this in the book as well 
+
 
 Short love affairs (?)
 
@@ -51,3 +60,5 @@ They lived a "crazy" life "crazy" loving each other
 "Кто живёт по законам другим и кому умирать молодым" В. Цой / "The ones who live by other laws and who are destined to die young" V. Tsoy
 
 I want people to weep when they finish reading the book and jump from their butts and go into the world and change it to their best capacity.
+
+#altruism 
