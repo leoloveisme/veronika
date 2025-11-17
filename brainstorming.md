@@ -10,6 +10,8 @@ Spiritual places
 
 yoga
 
+Auyasca - somewhere Amazonia
+
 and other experiences in this direction
 
 ## Auroville
@@ -30,11 +32,11 @@ b. Auroville is advanced enough to provide at least initial help
 
 ## Iceland
 
-## Auyasca - somewhere Amazonia
+
 
 Short love affairs (?)
 
-Edward - very good painter
+Edward - very good and internationally commercially successful painter
 
 They lived a "crazy" life "crazy" loving each other
 
