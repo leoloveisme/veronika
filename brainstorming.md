@@ -12,7 +12,7 @@ yoga
 
 and other experiences in this direction
 
-##Auroville
+## Auroville
 
 poisonous bite (insect? / snake?) - "run" for life - scar (where?)
 
@@ -26,11 +26,11 @@ a. because I'd love to promote the original Auroville cause
 and 
 b. Auroville is advanced enough to provide at least initial help
 
-#Ice bathing
+## Ice bathing
 
-##Iceland
+## Iceland
 
-##Auyasca - somewhere Amazonia
+## Auyasca - somewhere Amazonia
 
 Short love affairs (?)
 
