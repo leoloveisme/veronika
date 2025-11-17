@@ -25,7 +25,9 @@ Now I / we need to decide on location where the bite would happen and the time (
 I think India and Auroville in particular fit the story well. 
 
 a. because I'd love to promote the original Auroville cause 
-and 
+
+and
+ 
 b. Auroville is advanced enough to provide at least initial help
 
 ## Ice bathing
