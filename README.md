@@ -12,3 +12,7 @@ veronika decides to live.odm - is the main master document of the book
 chapters directory contains the chapters of the book
 
 Currently I'm looking for a co-author for the book
+
+This story could be a branching story - see brainstorming Ukraine / Gaza argument.
+
+
