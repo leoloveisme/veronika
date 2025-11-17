@@ -1,5 +1,1 @@
-At the current stage I decided to go with Libre Office because it enables to create a master document. 
-
-Markdown doesn't allow / enable (yet) to do that. 
-
-veronika decides to live.odm is the main master document of the book
+The book shows the lives of Edward and Veronika after they run away frrom the mental institution 
