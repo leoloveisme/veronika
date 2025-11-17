@@ -6,6 +6,12 @@ Once the breast-feading phase was finished the children were in the custody of E
 
 Gardening and planting wherever she was
 
+multilingual
+
+learned Spanish, Tamil, Icelandic
+
+and English, German, Italian and French she already could
+
 Spiritual places 
 
 yoga
