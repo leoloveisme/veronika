@@ -1,8 +1,6 @@
 # Brainstorming space for the book's story (characters, locations, etc)
 
-How many children? Gender of the children, etc...
 
-Once the breast-feading phase was finished the children were in the custody of Edward and the grandparents on both sides. 
 
 Gardening and planting wherever she was
 
@@ -62,3 +60,26 @@ They lived a "crazy" life "crazy" loving each other
 I want people to weep when they finish reading the book and jump from their butts and go into the world and change it to their best capacity.
 
 #altruism 
+
+## Traveling
+
+Shall she travel with the first newborn child? Will she travel with the first newborn child?
+Where will she go first?
+
+How many children? Gender of the children, etc...
+
+Boy (older more loved by Veronika) and girl (younger more loved by Eduard)
+
+Boy was quiet and a good "sleeper" - blond hair 
+Girl opposite of the boy (not quiet and not a good sleeper) - black hair
+
+Once the breast-feeding phase was finished the children were in the custody of Eduard and the grandparents on both sides. 
+
+When the second child will be born she'll travel ... who with? how? where?
+
+When the children will be off the breastfeeding she will travel alone and the children will stay with her and / or at times with Eduard's parents, but mostly with her parents. 
+
+Eduard will travel quite a lot himself with his painting exhibitions. 
+
+When you can sleep 8 hours you wake up fresh and ready to deal with everything the world has on offer for you that day, however when you don't sleep enough or at all everything falls difficult and nearly impossible. 
+
