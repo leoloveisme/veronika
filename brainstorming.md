@@ -8,7 +8,7 @@ Gardening and planting wherever she was
 
 multilingual
 
-learned Spanish, Tamil, Icelandic
+learned Spanish, Portuguese, Tamil, Icelandic
 
 and English, German, Italian and French she already could
 
@@ -45,7 +45,7 @@ During her time in Gaza she was quickly acquiring Arabic and Hebrew.
 
 I decided to go with Gaza story instead of Ukraine one. 
 
-People who want to develop the Ukrainian branch of the story will free to branch the story and finish it there. 
+People who want to develop the Ukrainian branch of the story feel free to branch the story and finish it there. 
 
 
 Genocide and terrorism - we need to look into this in the book as well 
@@ -53,7 +53,7 @@ Genocide and terrorism - we need to look into this in the book as well
 
 Short love affairs (?)
 
-Edward - very good and internationally commercially successful painter
+Eduard - very good and internationally commercially successful painter
 
 They lived a "crazy" life "crazy" loving each other
 
