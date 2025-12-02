@@ -1,6 +1,21 @@
 # Brainstorming space for the book's story (characters, locations, etc)
 
 
+Did they move to another country?
+
+Which one?
+
+Did they move several times?
+
+Where to?
+
+
+## Time line of the book
+
+When? 
+Where?
+Why?
+
 
 Gardening and planting wherever she was
 
