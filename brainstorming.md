@@ -17,6 +17,9 @@ Where?
 Why?
 
 
+To show the growth and overcoming of the fear for water, because she will go swimming in the cold waters in Iceland ?
+
+
 Gardening and planting wherever she was
 
 multilingual
