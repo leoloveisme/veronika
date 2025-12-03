@@ -10,11 +10,22 @@ Did they move several times?
 Where to?
 
 
-## Time line of the book
+## Timeline of the book
 
 When? 
 Where?
 Why?
+
+
+**************
+
+
+When you give birth to a child or more than one you're kind of expected to know everything. At least this is the expectation the world places on you. And it is quite dishearthening to know that this expection / these expectations are far far away, thousands upon thousands miles away from the reality you live day after day after day. 
+
+Just imagine the mountain Everest of expectations placed onto the fragile shoulders of underage mothers.
+
+And even though I was not underage when I gave birth to our first child, I still was very far from being perfect person and perfect mother. 
+
 
 
 To show the growth and overcoming of the fear for water, because she will go swimming in the cold waters in Iceland ?
