@@ -48,9 +48,8 @@ If you go with the solo trip (say, 2002-2003), it could highlight her independen
 If you want her first India trip around 2002-2003 (kids 3-4 and 1-2 years old), it feels like peak restlessness: family life is stable and loving, but she needs that far-edge contrast to the cold waters. **India as the opposite extreme—scorching, chaotic, spiritually overwhelming.**
 
 
-Think about it: this is the woman who, pre-Villete, was so numb she tried to end it all. Post-Villete (and post-marriage/kids in your version), she's reborn—craving intensity to prove she's truly alive. Ice swimming alone in Iceland? That's her jamming a finger into the socket of existence. A bureaucratic hassle like driving/train/flight to Vienna for an Indian visa? Peanuts.
+Think about it: this is the woman who, pre-Villete, was so numb she tried to end it all. Post-Villete (and post-marriage/kids in your version), she's reborn—craving intensity to prove she's truly alive. Ice swimming alone in Iceland? That's her jamming a finger into the socket of existence. 
 
-With a young child (if you send the quiet boy)? Extra docs (birth cert, consent if Eduard stays home), but totally doable. Long-haul flight with a toddler is the real grind, not the visa.
 
 
 Historical Slovenian-Indian relations (parents of Eduard - ambassador family)
@@ -64,6 +63,18 @@ The weep factor: Build the final chapters with letters/home videos to Eduard and
 
 
 Eduard seems to have found money glitch in the system, however his paintings are selling and they are selling fast and with that growth his selebrity marking. 
+
+
+Notes on Structure (for later deep dive)
+
+Cold appears three times:
+Thailand (decision) → Ice swimming (practice) → Iceland (integration)
+
+India frames the story: departure (1999) and return (2024–2025)
+
+Iceland sits best after initial ice swimming, not before
+
+Latin America works best before the final return to India, as an expansion before collapse
 
 
 
@@ -109,20 +120,11 @@ Gaza
 
 **************
 
-Due to my looks (both males and females found me extremely attractive) and hopefuly to my brains it was quite easy to become an new anchor on the Slovenian TV and later on one of the major UK TV channels and I was quite a decent writer, too. Writing fell easy for me and I felt that I was good at words; both written and spoken. Strangelly enough words appeared in my head as by themselves flying in quickly like commets with their cosmic speed.
-
-My children ended up seeing me more on the TV screen than at home
-
-
-When you give birth to a child or more than one you're kind of expected to know everything. At least this is the expectation the world places on you. And it is quite dishearthening to know that this expection / these expectations are far far away, thousands upon thousands miles away from the reality you live day after day after day. 
-
-Just imagine the mountain Everest of expectations placed onto the fragile shoulders of underage mothers.
-
-And even though I was not underage when I gave birth to our first child, I still was very far from being perfect person and perfect mother. 
 
 
 
-To show the growth and overcoming of the fear for water, because she will go swimming in the cold waters in Iceland ?
+
+To grow even futher and complete this overcoming of the fear for water, she will go swimming in the cold waters in Iceland
 
 
 Gardening and planting wherever she was
@@ -131,7 +133,7 @@ multilingual
 
 learned Spanish, Portuguese, Tamil, Icelandic
 
-and English, German, Italian and French she already could
+and English, German, Italian, French and even some Russian she already could
 
 Spiritual places 
 
