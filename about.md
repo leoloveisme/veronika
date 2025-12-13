@@ -1,4 +1,4 @@
-The book shows the lives of Edward and Veronika after they run away frrom the mental institution 
+The book shows the lives of Eduard and Veronika after they run away from the mental institution 
 
 The book is an absolutely fictional story
 
