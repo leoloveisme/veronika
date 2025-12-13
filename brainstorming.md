@@ -1,21 +1,108 @@
 # Brainstorming space for the book's story (characters, locations, etc)
 
+Bringing Eduard and the two children into her life transforms the original ending—where everything is open, fragile, and almost mythical—into something more human, enduring, and real.
 
-Did they move to another country?
+the love between Veronika and Eduard is intense but silent: she plays the piano to reach him through his schizophrenia, he paints visions for her, they make love under the stars, and then she “escapes” the asylum (and supposedly her impending death). 
 
-Which one?
+The children sound perfectly contrasted and very alive already:The older boy: quiet, good sleeper from birth. He almost feels like an echo of Eduard—introspective, perhaps carrying some of that same inward, artistic depth. Maybe he’s the one who sits still for hours drawing or listening to music, the “easy” child who doesn’t demand much but observes everything.
+The younger daughter: rebellious, sleepless as a baby. She’s clearly inherited Veronika’s fire—the restlessness, the refusal to conform, the need to feel everything intensely. I can already picture toddler her screaming through the night while Veronika, half-exhausted, half-thrilled, thinks: This is what aliveness feels like, and this is fucking exhausting. This is what I almost threw away.
 
-Did they move several times?
+Now it’s not just about her own life and death wish turned life wish. It’s about responsibility. What if something goes wrong? Who would raise those two very different children? How would Eduard—still perhaps fragile in his own way—cope? Does she feel guilt as she stands at the edge of the water? Or does she feel that this extreme act is necessary precisely because she’s a mother now—because domestic life, love, routine sometimes threaten to numb her again, and she needs the shock of near-freezing water to remember she’s still the woman who once swallowed pills and then chose the opposite?
 
-Where to?
+
+What I'm thinking about is - the book ends in 1998 
+They marry the same year
+Next year (1999) they have their first
+Almost at the end of the year 2000 they have their second (Love making feels so good; They are really deep into each other on all possible levels)
+In socium / society Eduard is rather quiet, however at home he can be quite a chatterbox at time (this happens to people who are introverted and feel secure and in a trustworthy environment, which his family absolutely is.
+In 2004 - Slovenia joins EU
+Because Veronika will go to India (and this even several time) my considerations are to send her for her first time in India with the first child or alone later 
+I wonder how easy it was for Slovenians to get into India in the time before 2004?
+
+
+
+marrying Eduard in 1998 right as the original story wraps, the first child (the quiet boy) arriving in 1999 amid the Y2K buildup, and the second (fiery daughter) conceived in a moment of deep, all-encompassing intimacy at the end of 2000, born early 2001. It grounds their "mad" love from Villete in something profoundly ordinary yet sacred: family rhythms, Eduard's selective chattiness blooming at home (yes, spot-on for introverts in safe spaces), and the EU accession in 2004 marking a subtle shift in their world's borders and opportunities.Now, on Veronika's trips to India: Sending her alone later (say, post-2001 when the kids are a bit older) feels narratively potent—it could be her reclaiming solo adventure amid motherhood's demands, perhaps triggered by a restlessness that echoes her pre-Villete numbness but now channeled into spiritual seeking (Ashrams? Yoga? The Ganges as a cold-water parallel?). Taking the first child (the boy, with his quiet nature) on the inaugural trip could add tender layers: his calm observing her plunge into the unknown, mirroring how she once reached Eduard through music. Either way, it ties beautifully into the ice-swimming motif—India's heat and chaos as a contrasting "extremity" to Scandinavia's freeze.
+
+Ease of Travel from Slovenia to India Pre-2004Based on historical diplomatic and visa records, it was feasible and relatively straightforward for Slovenian citizens to obtain an Indian tourist visa in the late 1990s to early 2000s, but not effortless by modern standards. Slovenia's post-independence stability (recognized by India in 1992, full diplomatic ties by mid-1992) meant no special hurdles tied to its Yugoslav past—Slovenian passports were treated like other European ones. However, without e-visas (introduced only in 2014) or visa-on-arrival for Slovenians, it required proactive planning, paperwork, and likely a day trip abroad. Here's a breakdown:Visa Type and ProcessRequired Visa: Tourist visa (single or multiple entry, typically 3-6 months validity, allowing 15-30 days per stay initially; extensions possible in India). No visa-free entry or on-arrival for Slovenians then (or now, for ordinary passports).
+Application Location: No Indian embassy in Slovenia until February 2007, so applications went through the Indian Embassy in Vienna, Austria (about 380 km/4-5 hour drive from Ljubljana, or a cheap flight/train). Vienna handled Central European jurisdictions including Slovenia, Croatia, and Hungary at the time. Some used the Indian High Commission in London if traveling there, but Vienna was the default for Central Europeans.
+How to Apply:In Person or Mail: Submit at the Vienna embassy's consular section (open weekdays). No online forms—everything paper-based.
+Processing Time: 3-7 working days typically; expedited options rare but possible for a fee.
+Cost: Around €20-50 (or equivalent in USD/Schilling pre-euro), paid in cash or bank draft. Fees were reciprocal and low for Europeans.
+
+Documents Needed (standard for a solo adult or with child):Valid Slovenian passport (at least 6 months beyond planned stay, 2 blank pages).
+Completed visa application form (2 copies; downloadable from embassy or picked up there).
+2 recent passport photos (35x45mm, white background).
+Proof of itinerary: Round-trip flight bookings, hotel reservations, or tour plan.
+Financial proof: Bank statement showing ~€50/day of stay, or sponsor letter if applicable.
+For travel with child (e.g., the boy): Birth certificate, parental consent if solo parent, child's passport.
+No interview usually, but embassy could request one for longer stays.
+
+Success Rate/Challenges: High approval rate (~95%+) for genuine tourists from stable countries like Slovenia—no political tensions or terrorism links. Rejections were rare but for incomplete docs or suspicious intent (e.g., overland "hippie trail" vibes without clear return plans). Post-9/11 (2001), scrutiny ticked up slightly for all Westerners, but not drastically for Europeans.
+
+Travel Logistics from SloveniaFlights: Direct-ish routes were limited; typical path: Ljubljana to Vienna/Frankfurt/Munich, then to Delhi/Mumbai (e.g., via Lufthansa or Austrian Airlines, 10-14 hours total, €500-800 round-trip). No low-cost carriers like today.
+With a Child: Doable but logistically heavier—extra docs for the kid, potential childcare for the daughter back home. Air India or European carriers had family-friendly policies, but long-haul with a toddler meant jetlag battles.
+Overall Ease Rating: On a scale of 1-10 (10 being passport-stamp easy), it'd be a 6-7. Comparable to other Europeans (e.g., Austrians or Germans), but the Vienna trek added friction. For a determined Veronika (post-Villete firebrand), it'd be a minor quest—perhaps even symbolic of breaking borders. By 2004 (EU entry), nothing changed visa-wise for India, but Schengen eased intra-Europe travel, making Vienna visits simpler.
+
+If you go with the solo trip (say, 2002-2003), it could highlight her independence; with the boy (maybe 2001, when he's ~2), it adds vulnerability and bonding. Either fits the "deciding to live" theme—India as her next "plunge."What draws her to India specifically? Spiritual reset, or something tied to Eduard's art/schizophrenia recovery? Share more timeline beats if you want help fleshing them out! 
+
+If you want her first India trip around 2002-2003 (kids 3-4 and 1-2 years old), it feels like peak restlessness: family life is stable and loving, but she needs that far-edge contrast to the cold waters. **India as the opposite extreme—scorching, chaotic, spiritually overwhelming.**
+
+
+Think about it: this is the woman who, pre-Villete, was so numb she tried to end it all. Post-Villete (and post-marriage/kids in your version), she's reborn—craving intensity to prove she's truly alive. Ice swimming alone in Iceland? That's her jamming a finger into the socket of existence. A bureaucratic hassle like driving/train/flight to Vienna for an Indian visa? Peanuts.
+
+With a young child (if you send the quiet boy)? Extra docs (birth cert, consent if Eduard stays home), but totally doable. Long-haul flight with a toddler is the real grind, not the visa.
+
+
+Historical Slovenian-Indian relations (parents of Eduard - ambassador family)
+
+
+
+**Change the world in your capacity**
+
+
+
+
+
+
+IMPORTANT!!!! Ask for usage of the real name of people mentioned in the book. 
 
 
 ## Timeline of the book
+
+Did they move to another country? Yes, they did.
+
+Which one? (s. below)
+
+Did they move several times? (yes, they did; s. below)
+
+Where to?
 
 When? 
 Where?
 Why?
 
+Birth of the first child - quiet, sleeper - boy (Swiss)
+Birth of the second child - not quiet, not sleeper - girl (UK) She seemed just didn't want sleep that much 
+
+Spain
+
+India - New Delhi & north
+
+South East Asia (episodal)
+
+USA
+Latin Amerikas
+
+Ice swims
+
+Iceland
+
+India again - North (nostalgie trips: visiting places from the previous time) & South (visiting mother's Ashram), Auroville (when)
+Coma (how long)
+
+Return to Slovenia
+
+Gaza
 
 **************
 
