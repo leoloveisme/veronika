@@ -60,7 +60,10 @@ Historical Slovenian-Indian relations (parents of Eduard - ambassador family)
 **Change the world in your capacity**
 
 
+The weep factor: Build the final chapters with letters/home videos to Eduard and the kids (now ~26 boy, ~24 girl—adults reflecting her/ his traits), flashbacks to Villete piano, Iceland plunge, family passions, Tsoy lyrics. She knows the risk but goes anyway: "Madness or bravery? This time, for them." Readers finish devastated—her "deciding to live" ultimately means dying so others might—but inspired to act, as you want.Eduard’s reaction: His paintings become global memorials; kids carry on her gardens/altruism. End with return to Slovenia for burial, but her spirit in Gaza's survivors.This lands like a thunderbolt—tragic, timely, transformative. If you want scene ideas, exact date (e.g., during Storm Byron floods for symbolism), or how to weave in genocide/terrorism themes without preaching, let's flesh it. 
 
+
+Eduard seems to have found money glitch in the system, however his paintings are selling and they are selling fast and with that growth his selebrity marking. 
 
 
 
@@ -105,6 +108,10 @@ Return to Slovenia
 Gaza
 
 **************
+
+Due to my looks (both males and females found me extremely attractive) and hopefuly to my brains it was quite easy to become an new anchor on the Slovenian TV and later on one of the major UK TV channels and I was quite a decent writer, too. Writing fell easy for me and I felt that I was good at words; both written and spoken. Strangelly enough words appeared in my head as by themselves flying in quickly like commets with their cosmic speed.
+
+My children ended up seeing me more on the TV screen than at home
 
 
 When you give birth to a child or more than one you're kind of expected to know everything. At least this is the expectation the world places on you. And it is quite dishearthening to know that this expection / these expectations are far far away, thousands upon thousands miles away from the reality you live day after day after day. 
