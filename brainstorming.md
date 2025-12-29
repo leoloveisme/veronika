@@ -61,9 +61,7 @@ Historical Slovenian-Indian relations (parents of Eduard - ambassador family)
 
 The weep factor: Build the final chapters with letters/home videos to Eduard and the kids (now ~26 boy, ~24 girl—adults reflecting her/ his traits), flashbacks to Villete piano, Iceland plunge, family passions, Tsoy lyrics. She knows the risk but goes anyway: "Madness or bravery? This time, for them." Readers finish devastated—her "deciding to live" ultimately means dying so others might—but inspired to act, as you want.Eduard’s reaction: His paintings become global memorials; kids carry on her gardens/altruism. End with return to Slovenia for burial, but her spirit in Gaza's survivors.This lands like a thunderbolt—tragic, timely, transformative. If you want scene ideas, exact date (e.g., during Storm Byron floods for symbolism), or how to weave in genocide/terrorism themes without preaching, let's flesh it. 
 
-
-Eduard seems to have found money glitch in the system, however his paintings are selling and they are selling fast and with that growth his selebrity marking. 
-
+***********
 
 Notes on Structure (for later deep dive)
 
@@ -76,16 +74,23 @@ Iceland sits best after initial ice swimming, not before
 
 Latin America works best before the final return to India, as an expansion before collapse
 
+*******************
+
+IMPORTANT!!!! Ask for usage of the real names of people mentioned in the book. 
 
 
-IMPORTANT!!!! Ask for usage of the real name of people mentioned in the book. 
+I've chosen to live again and again over the years
+
+Eduard seems to have found money glitch in the system, however his paintings are selling and they are selling fast and with that growth his selebrity marking. 
 
 
-## Timeline of the book
+## [Timeline of the book](timeline.md)
 
-Did they move to another country? Yes, they did.
+Feel free to move or shuffle the timeline and / or the events, if you think it will create a better story
 
-Which one? (s. below)
+Did they move to another country? Yes, they did, several times. Switzerland and England.
+
+Which one? (s. above / below)
 
 Did they move several times? (yes, they did; s. below)
 
@@ -95,8 +100,8 @@ When?
 Where?
 Why?
 
-Birth of the first child - quiet, sleeper - boy (Swiss)
-Birth of the second child - not quiet, not sleeper - girl (UK) She seemed just didn't want sleep that much 
+Birth of the first child - quiet, sleeper - blond boy (Swiss)
+Birth of the second child - not quiet, not sleeper - black-haired girl (UK) She seemed just didn't want sleep that much 
 
 Spain
 
@@ -104,19 +109,19 @@ India - New Delhi & north
 
 South East Asia (episodal)
 
+Ice swims 
+
 USA
 Latin Amerikas
 
-Ice swims
-
 Iceland
 
-India again - North (nostalgie trips: visiting places from the previous time) & South (visiting mother's Ashram), Auroville (when)
-Coma (how long)
+India again - North (nostalgie trips: visiting places from the previous time) & South (visiting mother's Ashram), Auroville (2025)
+Coma (3 months)
 
 Return to Slovenia
 
-Gaza
+Gaza (August 2025)
 
 **************
 
@@ -131,9 +136,9 @@ Gardening and planting wherever she was
 
 multilingual
 
-learned Spanish, Portuguese, Tamil, Icelandic
+learned Spanish, Portuguese, Tamil, and even some Icelandic
 
-and English, German, Italian, French and even some Russian she already could
+and English, German, Italian, French and some Russian she already knew / could speak and understand 
 
 Spiritual places 
 
@@ -145,13 +150,13 @@ and other experiences in this direction
 
 ## Auroville
 
-poisonous bite (insect? / snake?) - "run" for life - scar (where?)
+poisonous bite (viper - agressive and attacking) - "run" for life - scar (leg)
 
 I decided to go with viper bite because they are quite critical and when one delays the time to get into hospital and get an immediate help in may cause complications and that why Veronika will end up in coma
 
-Now I / we need to decide on location where the bite would happen and the time (how long) she spent in coma
+Now I / we need to decide on location where the bite would happen (Auroville) and the time she spent in coma (3 months)
 
-I think India and Auroville in particular fit the story well. 
+I think India and Auroville in particular fit the story well:
 
 a. because I'd love to promote the original Auroville cause 
 
@@ -159,7 +164,10 @@ and
  
 b. Auroville is advanced enough to provide at least initial help
 
+
 ## Ice bathing
+
+Training with Wim Hoff
 
 ## Iceland
 
@@ -174,11 +182,16 @@ People who want to develop the Ukrainian branch of the story feel free to branch
 Genocide and terrorism - we need to look into this in the book as well 
 
 
+AI could potentially help us to prosper and instead of this we train it how to kill people (drones and drones attacks)
+
+
 Short love affairs (?)
 
 Eduard - very good and internationally commercially successful painter
 
 They lived a "crazy" life "crazy" loving each other
+
+Relationship anarchy
 
 "Кто живёт по законам другим и кому умирать молодым" В. Цой / "The ones who live by other laws and who are destined to die young" V. Tsoy
 
@@ -189,9 +202,7 @@ I want people to weep when they finish reading the book and jump from their butt
 ## Traveling
 
 Shall she travel with the first newborn child? Will she travel with the first newborn child?
-Where will she go first?
-
-How many children? Gender of the children, etc...
+Where will she go first? India.
 
 Boy (older more loved by Veronika) and girl (younger more loved by Eduard)
 
@@ -199,8 +210,6 @@ Boy was quiet and a good "sleeper" - blond hair
 Girl opposite of the boy (not quiet and not a good sleeper) - black hair
 
 Once the breast-feeding phase was finished the children were in the custody of Eduard and the grandparents on both sides. 
-
-When the second child will be born she'll travel ... who with? how? where?
 
 When the children will be off the breastfeeding she will travel alone and the children will stay with her and / or at times with Eduard's parents, but mostly with her parents. 
 

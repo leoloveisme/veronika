@@ -6,54 +6,36 @@ May 2004 - Spain
 
 December - North Thailand - (in the hills of Thailand the decision to become friends with cold is made)
 Ice swimming(s)
-Iceland
-USA
-Latin Amerika
-
-November 2024 - India again (first trip to the places of memory, then down to Auroville)
-May 2025 - Viper bite, Coma, Transport from India to Slovenia
-2025 - Eduard returns to Slovenia (better cheaper medicine) to be with Veronika (now in coma)
-August 2025 - Waking up from coma 
-August 2025 - death
-
-
-
 
 Expansion Years / Nomadic Phase
 
 December 2006
-North Thailand (mountain regions).
+North Thailand (mountain regions)
 Decision to “become friends with cold” despite tropical latitude — internal paradox established.
-
-January–February 2007
-First deliberate ice / cold-water immersions (rivers, mountain water, early discipline).
-
-Summer 2008 (June–July)
-Iceland.
-Cold formalized as philosophy; nature as teacher rather than adversary.
-
-2009–2011
-United States.
-Fragmented stays; contrast between excess, speed, and inner emptiness.
-
-2012–2015
-Latin America (multiple countries).
-Slow time, body knowledge, ritual, and earth-based healing traditions.
-
+January–February
+First deliberate ice / cold-water immersions (rivers, mountain water, early discipline). Training with Iceman - Wim Hoff
 
 Nomadic / Expansion Phase
 
-Summer 2009 (June–July)
-Iceland
+Summer (June–July)
+Iceland.
+Cold formalized as philosophy; nature as teacher rather than adversary.
 Cold mastered rather than feared
 Landscape as mirror of inner emptiness and clarity
 
-2011–2012
-USA
+United States
+Fragmented stays; contrast between excess, speed, and inner emptiness.
 Exposure to scale, speed, alienation
 Emotional fragmentation increases
 
-2014–2016
-Latin America
+Latin America (multiple countries).
+Slow time, body knowledge, rituals, and earth-based healing traditions.
 Heat, chaos, spirituality, and sensuality
 Contrast to Icelandic austerity
+
+November 2024 - India again (first trip to the places of memory, then down to Auroville)
+May 2025 - Viper bite, coma, transport from India to Slovenia
+2025 - Eduard returns to Slovenia (better cheaper medicine) to be with Veronika (now in coma)
+August 2025 - Waking up from coma 
+August 2025 - death
+
