@@ -2,8 +2,7 @@
 
 ## Additional input after using Milanote visual boards
 
-
-
+I created a Screenplay directory and placed it there
 
 **************
 

@@ -1,5 +1,7 @@
-1998 - Escape from Villette, marriage 
-1999 - boy is born
+16 April 1998 - Escape from Villette 
+Marriage 
+January 1999 - Move to Switzerland (Eduard's paintings are selling there)
+February 1999 - boy is born
 November 1999 - Leaving for India (parting sex conceives daughter) (cold evenings and mornings)
 August 2000 - girl is born 
 May 2004 - Spain
