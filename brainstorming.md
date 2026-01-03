@@ -1,11 +1,18 @@
 # Brainstorming space for the book's story (characters, locations, etc)
 
+## Additional input after using Milanote visual boards
+
+
+
+
+**************
+
 Bringing Eduard and the two children into her life transforms the original ending—where everything is open, fragile, and almost mythical—into something more human, enduring, and real.
 
 the love between Veronika and Eduard is intense but silent: she plays the piano to reach him through his schizophrenia, he paints visions for her, they make love under the stars, and then she “escapes” the asylum (and supposedly her impending death). 
 
 The children sound perfectly contrasted and very alive already:The older boy: quiet, good sleeper from birth. He almost feels like an echo of Eduard—introspective, perhaps carrying some of that same inward, artistic depth. Maybe he’s the one who sits still for hours drawing or listening to music, the “easy” child who doesn’t demand much but observes everything.
-The younger daughter: rebellious, sleepless as a baby. She’s clearly inherited Veronika’s fire—the restlessness, the refusal to conform, the need to feel everything intensely. I can already picture toddler her screaming through the night while Veronika, half-exhausted, half-thrilled, thinks: This is what aliveness feels like, and this is fucking exhausting. This is what I almost threw away.
+The younger daughter: rebellious, sleepless as a baby. She’s clearly inherited Veronika’s fire—the restlessness, the refusal to conform, the need to feel everything intensely. I can already picture toddler; her screaming through the night while Veronika, half-exhausted, half-thrilled, thinks: This is what aliveness feels like, and this is fucking exhausting. This is what I almost threw away.
 
 Now it’s not just about her own life and death wish turned life wish. It’s about responsibility. What if something goes wrong? Who would raise those two very different children? How would Eduard—still perhaps fragile in his own way—cope? Does she feel guilt as she stands at the edge of the water? Or does she feel that this extreme act is necessary precisely because she’s a mother now—because domestic life, love, routine sometimes threaten to numb her again, and she needs the shock of near-freezing water to remember she’s still the woman who once swallowed pills and then chose the opposite?
 
@@ -14,12 +21,11 @@ What I'm thinking about is - the book ends in 1998
 They marry the same year
 Next year (1999) they have their first
 Almost at the end of the year 2000 they have their second (Love making feels so good; They are really deep into each other on all possible levels)
-In socium / society Eduard is rather quiet, however at home he can be quite a chatterbox at time (this happens to people who are introverted and feel secure and in a trustworthy environment, which his family absolutely is.
+In socium / society Eduard is rather quiet, however at home he can be quite a chatterbox at time (this happens to people who are introverted and feel secure and in a trustworthy environment, which his family absolutely is.)
 In 2004 - Slovenia joins EU
-Because Veronika will go to India (and this even several time) my considerations are to send her for her first time in India with the first child or alone later 
+Because Veronika will go to India (and this even several times) my considerations are to send her for her first time in India with the first child or alone later 
+
 I wonder how easy it was for Slovenians to get into India in the time before 2004?
-
-
 
 marrying Eduard in 1998 right as the original story wraps, the first child (the quiet boy) arriving in 1999 amid the Y2K buildup, and the second (fiery daughter) conceived in a moment of deep, all-encompassing intimacy at the end of 2000, born early 2001. It grounds their "mad" love from Villete in something profoundly ordinary yet sacred: family rhythms, Eduard's selective chattiness blooming at home (yes, spot-on for introverts in safe spaces), and the EU accession in 2004 marking a subtle shift in their world's borders and opportunities.Now, on Veronika's trips to India: Sending her alone later (say, post-2001 when the kids are a bit older) feels narratively potent—it could be her reclaiming solo adventure amid motherhood's demands, perhaps triggered by a restlessness that echoes her pre-Villete numbness but now channeled into spiritual seeking (Ashrams? Yoga? The Ganges as a cold-water parallel?). Taking the first child (the boy, with his quiet nature) on the inaugural trip could add tender layers: his calm observing her plunge into the unknown, mirroring how she once reached Eduard through music. Either way, it ties beautifully into the ice-swimming motif—India's heat and chaos as a contrasting "extremity" to Scandinavia's freeze.
 
@@ -50,6 +56,24 @@ If you want her first India trip around 2002-2003 (kids 3-4 and 1-2 years old), 
 
 Think about it: this is the woman who, pre-Villete, was so numb she tried to end it all. Post-Villete (and post-marriage/kids in your version), she's reborn—craving intensity to prove she's truly alive. Ice swimming alone in Iceland? That's her jamming a finger into the socket of existence. 
 
+
+shall I make an abortion? 
+No one would know about that 
+What stops her from having that abortion?
+
+
+VO (in Veronika voice)
+shall I make an abortion?
+No one would know about that
+What stops her from having that abortion?
+Dilemma
+VO (in Veronika voice)
+I almost killed myself once...
+How can I cancel the life which doesn't belong to me? Should I not live that decision to the child?
+
+
+
+She tells Eduard about being pregnant later (on Skype)
 
 
 Historical Slovenian-Indian relations (parents of Eduard - ambassador family)
@@ -126,7 +150,7 @@ Gaza (August 2025)
 **************
 
 
-
+feeblemindedness and bravery / courage / daring - слабоумие и отвага 
 
 
 To grow even futher and complete this overcoming of the fear for water, she will go swimming in the cold waters in Iceland
