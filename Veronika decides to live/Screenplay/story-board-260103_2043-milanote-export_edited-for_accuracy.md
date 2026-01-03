@@ -1,7 +1,5 @@
 # Veronika decides to live
 
-## Intro
-
 ## Apocalypse now
 
 EXT - on street in Gaza - Day
@@ -322,6 +320,4 @@ speaks in Arabic to children she wants to lead to shelter
 CONT'D EXT - on street in Gaza - DAY
 
 (devastation - partially or fully demolished building - heat and smoke)
-
-## Outro
 
