@@ -200,7 +200,7 @@ time - not me though, my libido actually became amplified
 
 parting sex (**which was initiated by Veronika**) will conceive their daughter
 
-## India
+## [India](/home/lad/Dropbox/content creation/Veronika/Veronika decides to live/Novel/chapters/India.odt)
 
 (entry New Delhi November 1999)
 
@@ -226,6 +226,14 @@ Varkala
 
 some persistent interest from a male over several days
 
+He was very well behaved and extremely polite ALL the fucking time and this
+appauled me and on the other hand made him etremely attractive for me. 
+
+When I was returning from the yoga session for mothers - there were all kind of
+women there: Russian, Indian, Australian and me; I was not in my best shape and
+yet he has overshowered me with compliments for how beautiful I am and how
+great I look. 
+
 INT - some restaurant overlooking ocean - DAY
 
 (Veronika and male have a conversation, while Veronika breastfeeds the boy)
@@ -244,7 +252,7 @@ Veronika runs into the bathroom
 
 the male being the gentlemen leaves while she is still in the bathroom
 
-(so she discovers that she is pregnant)
+(so she discovers / becomes aware that she is pregnant)
 
 (Emotional break down)
 
@@ -348,7 +356,7 @@ Andalusia
 
 some years later
 
-## South-East Asia
+## [South-East Asia](/home/lad/Dropbox/content creation/Veronika/Veronika decides to live/Novel/chapters/South East Asia.odt)
 
 (work)
 
@@ -357,6 +365,7 @@ Bangkok
 North Thailand
 
 ### Journey into friendship with cold begins.
+
 
 EXT - North Thailand - NIGHT
 
@@ -378,6 +387,7 @@ CONT'D VO (in Veronika voice)
 It's fucking great that we left for India in November, when it was already
 pretty cold in Slovenia, otherwise we would be freezing our bones here.
 
+
 EXT - North Thailand - NIGHT
 
 CONT'D VO (in Veronika voice)
@@ -393,17 +403,34 @@ It's good that we flew here in December and had our warm clothes with us.
 
 CONT'D VO (in Veronika voice)
 
+
 My whole life is an absolute irony of my choices, of me making those choices
 and living with them.
 
 EXT - PATH UP THE MOUNTAIN - MORNING
 
-(Veronika went for a run and a swim in a cold-ish mountain lake)
+(Veronika went for a run and a swim in a cold-ish mountain lake overcoming fear
+of water)
+
+FLASHBACK TO CHILDHOOD
+
+EXT - LAKE - DAY
+
+(little Veronika is drowning in a lake)
+
+(when she was a child and nearly drowned and was saved by .... whom?)
+
+CONT'D EXT - PATH UP THE MOUNTAIN - MORNING
+
+(Veronika runs into the water and dives)
+
+Well, that didn't kill me. 
 
 - - -
 (Decision to “become friends with cold” despite tropical latitude — internal
 paradox established.)
 
+- - -
 CONT'D
 
 (work)
@@ -510,9 +537,21 @@ Auroville clinique
 
 coma & return to Slovenia
 
-## Now - it’s time to live
+And I ended up in hospital, again. 
 
-Now - it’s time to live without fear
+In a hospital similar to Villette 
+
+I don't know about Eduard, however I passionately hated ALL hospitals after
+Villette and something in my gut tells me that Eduard might've shared my
+sentiment. 
+
+Seeing everything what was happening around me in the hospital and beyond and
+not being able to change anything is - I don't know how to put it mildly -
+disheartening. 
+
+## [Now - it’s time to live](/home/lad/Dropbox/content creation/Veronika/Veronika decides to live/Novel/chapters/Now it is time to live.odt)
+
+Now - it’s time to live without fear
 
 it doesn't matter how long one lives if one lives a happy and fulfilling life
 

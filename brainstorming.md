@@ -4,7 +4,32 @@
 
 I created a Screenplay directory and placed it there
 
-**************
+*************************
+
+I wonder what to do with Dr. Igor?
+Do we need him in the story. 
+Now when he is old, do we need to bring them: Veronika and him for a conversation?
+What their conversation would be about?
+
+***
+
+Mom's calling.
+
+MOM is displayed on the telephone screen. 
+
+Hi, mom. 
+Darling, do you remember Dr. Igor? 
+Of course, I do. What about him?
+Well, he actually died of a heart attack, yesterday.
+
+Burial ceremony. Veronika with Eduard and children are there, too. 
+
+***
+
+I also initially wanted to display parting from the loved one (death of parents of each side) - actually I'm not sure (about that) now.
+
+
+**************************
 
 Bringing Eduard and the two children into her life transforms the original ending—where everything is open, fragile, and almost mythical—into something more human, enduring, and real.
 
