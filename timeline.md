@@ -35,9 +35,9 @@ Slow time, body knowledge, rituals, and earth-based healing traditions.
 Heat, chaos, spirituality, and sensuality
 Contrast to Icelandic austerity
 
-November 2024 - India again (first trip to the places of memory, then down to Auroville)
+January 2025 - India again (first trip to the places of memory, then down to Auroville)
 May 2025 - Viper bite, coma, transport from India to Slovenia
-2025 - Eduard returns to Slovenia (better cheaper medicine) to be with Veronika (now in coma)
+May 2025 - Eduard returns to Slovenia (better cheaper medicine) to be with Veronika (now in coma)
 August 2025 - Waking up from coma 
 August 2025 - death
 
