@@ -4,6 +4,56 @@
 
 I created a Screenplay directory and placed it there
 
+****************************
+
+Some stuff to work with after a conversation with Grok 
+
+My huge issue is - how to distill / condense 2 enormous universes to a small bright comet ???
+It is an (almost) impossible task. 
+
+
+Eduard was good even in the first book, that the "normal stuff" was boring for him. (and now when he was doing it as full time activity he polished his talents into a shiny diamond) His parents knew this however they just left him searching for what he wanted to find, and what he was looking for was actually not an abstract concept - it was her - his crazy wife, who he not less crazy, is in love with. She is hardly there, like sun in Iceland or North Finland / Lapland during winter and he appreciates ALL the time he can get with her, but he is not clingy, because he knows that she'll be back (and so do their children). How long for - that they DO NOT KNOW, and neither does Veronika.
+
+She is yogic
+He is stoic
+
+
+In Coelho’s book: she decides to die → lives.
+In mine: she decides to live (fiercely, repeatedly, defiantly) → dies.
+
+the cold is something to feel alive and yoga and meditation is something to clear head - these are just the tools to get live more or less under control - for Veronika and stoicism - for Eduard. I'm still looking for the central theme... She decides to live but what for???
+
+She decides to live… but what for? The outer answer is easy: travel, writing, kids, ice swims, yoga, breathwork, TV fame, Gaza. Tools to feel alive, to clear the head, to keep the numbness at bay.But the real answer — the one that glues the whole comet together — has to be deeper than “to feel alive.”
+Because “feeling alive” is the method, not the purpose.Let’s hunt for the central theme by asking what Veronika is actually chasing, underneath all the intensity.From everything you’ve shared, here are the strongest contenders for what her life is ultimately FOR:
+
+To prove — every single day — that her original suicide attempt was wrong.
+Not just “life is worth living,” but a fierce, almost vengeful demonstration: “I was wrong to try to leave. Look how much there is. Look how much I would have missed.”
+Every extreme experience, every child, every risk is evidence in her private trial against the old Veronika who wanted out.
+
+To redeem the life she almost threw away by giving it away to others.
+The arc ends in Gaza not as a death wish, but as the logical endpoint: once she learns how precious her own life is, she can’t sit comfortably while others have theirs stolen. Choosing life ultimately means choosing it for everyone — especially where it’s most threatened.
+
+To pass on the miracle she was forcibly given.
+She didn’t choose to survive the pills — the universe (or fate, or medicine) shoved life back into her hands. Now she has to justify that unasked-for gift by living so fully that the miracle feels earned. And by teaching her children (and later strangers in war zones) the same ferocious gratitude.
+
+To love so intensely that even absence becomes a form of presence.
+With Eduard and the kids as the steady centre, her wandering isn’t escape — it’s the only way she knows to love without suffocating them or herself. She decides to live for them, but in the only shape she can manage: coming back brighter, sharper, more alive each time, like a comet that keeps returning to its sun.
+
+To answer the question she asked in the asylum: “What is the point of all this?”
+The original book ends with a kind of mystical shrug. Your version spends a lifetime refusing to shrug. The point isn’t found in one epiphany — it’s built, brick by brick, child by child, risk by risk, until the final Gaza scene becomes her lived answer.
+
+
+
+
+Closes the physical and emotional circle: Ljubljana hospital → Ljubljana hospital. 
+Makes Dr. Igor’s death the intimate, personal trigger — not just news, but legacy and debt. 
+Keeps the irony razor-sharp: she decides to live → dies; the doctor who “gave” her life by inventing her heart condition loses his own heart. 
+Frames Gaza as the deliberate final act of gratitude and solidarity — paying forward the unchosen gift.
+
+The comet burns brightest at the very end.
+
+
+
 *************************
 
 I wonder what to do with Dr. Igor?
