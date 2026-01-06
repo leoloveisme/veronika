@@ -89,6 +89,12 @@ Veronika starts writing
 January 1999 Move to Switzerland, Bern (Eduard's paintings are suddenly selling
 there)
 
+It was a relatively small house with another small guest house, which Eduard
+seized for / claimed as his painting studio
+
+The main house was near the quiet road and the guest house was overlooking
+everso slightly the Aare river 
+
 February 1999 Birth of the boy
 
 Veronika's writing career takes off
@@ -157,6 +163,8 @@ Veronika stops, opens it to check the accuracy)
 CAMERA SHOT INTO THE PASSPORT OPENED DISPLAYING INDIAN VISA 
 
 - - -
+// I'm still not sure if I should include it into the book or not 
+
 EXT - Outside of Embassy - DAY
 
 VERONIKA
@@ -181,24 +189,48 @@ visa, another night in hotel, etc
 
 ???
 
-- - -
 OC
 
 What doesn't kill us, makes us stronger...
 
+- - -
 BACK in Bern
 
 INT - Bedroom - NIGHT
 
-After she has packed everything and put boy to bed, she came into Eduard's
-studio.... 
+After she has packed everything and put boy to bed, she set up the baby phone
+and went to / came into Eduard's studio.... 
+
+She knew that she has got at least 2 - 3 hours before she would need to feed
+the boy... 
 
 VO (*in Veronika voice*)
 
 Normal women, who breastfeed usually lose their libido during the breastfeeding
-time - not me though, my libido actually became amplified
+time - not me though, my libido has actually become amplified
 
-parting sex (**which was initiated by Veronika**) will conceive their daughter
+(parting sex (**which was initiated by Veronika**) and which will conceive their
+daughter) <- this will be deleted later from the book / script
+
+INT - EDUARD'S STUDIO ROOM - NIGHT
+
+Veronika enters the studio with a thick wool blanket over her shoulder Kisses
+Eduard Steps away and spreads out the blanket on the floor while Eduard amuzed
+and in bewilderment watches what Veronika is doing She half lies down onto the
+blanket and waves with the hand to Eduard to come (come, come)
+
+The whole day she was preparing hersef for this - she rubbed herself against
+him like a horny cat in May - in the kitchen, in his studio - when she came to
+call him for lunch and dinner to his bewilderment keeping him thinking what is
+actually going on today :) 
+
+When he came to the blanket and copied her pose she pressed him onto his
+shoulders, him ending up lying on his back and ... 
+
+she kissed and rode him, she rode and kissed him very well that night.
+
+In the morning Eduard drives them to the airport. They kiss and she waves
+goodbye, after having entered the gate. 
 
 ## [India](/home/lad/Dropbox/content creation/Veronika/Veronika decides to live/Novel/chapters/India.odt)
 
@@ -366,7 +398,6 @@ North Thailand
 
 ### Journey into friendship with cold begins.
 
-
 EXT - North Thailand - NIGHT
 
 VO (in Veronika voice)
@@ -387,7 +418,6 @@ CONT'D VO (in Veronika voice)
 It's fucking great that we left for India in November, when it was already
 pretty cold in Slovenia, otherwise we would be freezing our bones here.
 
-
 EXT - North Thailand - NIGHT
 
 CONT'D VO (in Veronika voice)
@@ -402,7 +432,6 @@ very warm tropical country.)
 It's good that we flew here in December and had our warm clothes with us.
 
 CONT'D VO (in Veronika voice)
-
 
 My whole life is an absolute irony of my choices, of me making those choices
 and living with them.
