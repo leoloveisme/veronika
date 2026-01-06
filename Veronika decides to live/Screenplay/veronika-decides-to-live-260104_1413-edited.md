@@ -8,7 +8,7 @@ EXT - on street in Gaza - Day
 
 ## Life goes on
 
-EXT - LJUBLYANA - NIGHT
+EXT - LJUBLJANA - NIGHT
 
 VERONIKA & EDUARD 
 
@@ -55,11 +55,9 @@ Let’s get married and have children.
 
 FADE OUT
 
-TITLE
+TITLE - "Some time later"
 
-Some time later
-
-Eduard's paintings "sudenly" starting to sell
+Eduard's paintings "suddenly" starting to sell
 
 (his influential parents pulled the strings)
 
@@ -86,29 +84,24 @@ Veronika starts writing
 
 **What's next**
 
-January 1999 Move to Switzerland, Bern (Eduard's paintings are suddenly selling
-there)
+January 1999 Move to Switzerland, Bern (Eduard's paintings are suddenly
+starting to sell / selling great there)
+
+EXT - Panoramic aerial view of the houses - DAY
 
 It was a relatively small house with another small guest house, which Eduard
 seized for / claimed as his painting studio
 
-The main house was near the quiet road and the guest house was overlooking
-everso slightly the Aare river 
+The main house was near the quiet road and the guest house was overlooking ever
+so slightly the Aare river 
+
+INT - Hospital - ART. LIGHT
 
 February 1999 Birth of the boy
 
 Veronika's writing career takes off
 
 They (Veronika & Eduard) become VERY wealthy
-
-OC - CHAPTER TITLE
-
-BOOK PAGE FLIP ???
-
-Do we want to use them???
-
-How about two versions with and without book page flips? and see which one
-performs better...
 
 ## Preparing for India
 
@@ -151,7 +144,7 @@ breastfeeds the boy)
 
 INT - Breakfast room - MORNING
 
-(friendly chit-chat with some breakfast table neighbors)
+(friendly chitchat with some breakfast table neighbours)
 
 INT - Indian consulate - DAY
 
@@ -215,11 +208,11 @@ daughter) <- this will be deleted later from the book / script
 INT - EDUARD'S STUDIO ROOM - NIGHT
 
 Veronika enters the studio with a thick wool blanket over her shoulder Kisses
-Eduard Steps away and spreads out the blanket on the floor while Eduard amuzed
+Eduard Steps away and spreads out the blanket on the floor while Eduard amused
 and in bewilderment watches what Veronika is doing She half lies down onto the
 blanket and waves with the hand to Eduard to come (come, come)
 
-The whole day she was preparing hersef for this - she rubbed herself against
+The whole day she was preparing herself for this - she rubbed herself against
 him like a horny cat in May - in the kitchen, in his studio - when she came to
 call him for lunch and dinner to his bewilderment keeping him thinking what is
 actually going on today :) 
@@ -232,7 +225,7 @@ she kissed and rode him, she rode and kissed him very well that night.
 In the morning Eduard drives them to the airport. They kiss and she waves
 goodbye, after having entered the gate. 
 
-## [India](/home/lad/Dropbox/content creation/Veronika/Veronika decides to live/Novel/chapters/India.odt)
+## [India](file:///home/lad/Dropbox/content creation/Veronika/Veronika decides to live/Novel/chapters/India.odt)
 
 (entry New Delhi November 1999)
 
@@ -259,7 +252,7 @@ Varkala
 some persistent interest from a male over several days
 
 He was very well behaved and extremely polite ALL the fucking time and this
-appauled me and on the other hand made him etremely attractive for me. 
+appalled me and on the other hand made him extremely attractive for me. 
 
 When I was returning from the yoga session for mothers - there were all kind of
 women there: Russian, Indian, Australian and me; I was not in my best shape and
@@ -281,6 +274,10 @@ She plays with his hair
 sudden vomit reaction (Veronika)
 
 Veronika runs into the bathroom
+
+I apologised and run into the bathroom
+
+The guy remained staying speechless for some time and then just left
 
 the male being the gentlemen leaves while she is still in the bathroom
 
@@ -341,7 +338,7 @@ EPISODE
 
 INT - BEDROOM - NIGHT
 
-(showing screams and tuntrums of the baby girl and exhausted Veronika)
+(showing screams and tantrums of the baby girl and exhausted Veronika)
 
 Beginning of the TV career
 
@@ -388,7 +385,7 @@ Andalusia
 
 some years later
 
-## [South-East Asia](/home/lad/Dropbox/content creation/Veronika/Veronika decides to live/Novel/chapters/South East Asia.odt)
+## [South-East Asia](file:///home/lad/Dropbox/content creation/Veronika/Veronika decides to live/Novel/chapters/South East Asia.odt)
 
 (work)
 
@@ -578,7 +575,7 @@ Seeing everything what was happening around me in the hospital and beyond and
 not being able to change anything is - I don't know how to put it mildly -
 disheartening. 
 
-## [Now - it’s time to live](/home/lad/Dropbox/content creation/Veronika/Veronika decides to live/Novel/chapters/Now it is time to live.odt)
+## [Now - it’s time to live](file:///home/lad/Dropbox/content creation/Veronika/Veronika decides to live/Novel/chapters/Now it is time to live.odt)
 
 Now - it’s time to live without fear
 

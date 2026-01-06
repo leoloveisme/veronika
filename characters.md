@@ -38,3 +38,7 @@ Eduard was good even in the first book, that the "normal stuff" was boring for h
 
 She is yogic
 He is stoic
+
+# Almost lover in India
+
+Russian / German from Dubai
