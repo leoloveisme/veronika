@@ -42,3 +42,33 @@ He is stoic
 # Almost lover in India
 
 Russian / German from Dubai
+
+
+--- 
+
+warm babushka and very cold and very distanced (initially) Veronika II
+
+Babushka: "What is your name?"
+Veronika II (unvoluntirily, as if making a favor): "Veronika."
+Babushka (makes a mental note of her name, just to call her daughter later asking to bring the "Veronika decides to live" book): And my name is Martha, Agatha, something else.
+Veronika (turning her back to babushka and thinking: "Whatever") and voicing: "Ok"
+
+# Marija
+
+Name: Marija (very Slovene, soft, grandmotherly)
+Age: 70s. Old enough to have lived through real shit—maybe she was a nurse during the Yugoslav wars, or lost family in WWII. She's seen death. She chose life anyway.
+Why she's in hospital: routine surgery on shoulder, recovery. She's fine. She's chipper. This makes Veronika II even more frustrated initially: "How can you be so fucking cheerful?"
+Her vibe: Warm but not intrusive. Brings too many blankets. Offers food from Tupperware her daughter brought. Talks to Veronika II like she's a grumpy granddaughter, not a suicide risk.
+
+The babushka as bridge:
+
+Generational witness: She's old enough to remember Yugoslavia, war, displacement, survival. She knows what Veronika II is carrying without needing to ask.
+Warm persistence vs. cold withdrawal: The contrast creates tension that softens over time. Babushka doesn't force connection
+
+# Veronika II
+
+16 y.o. 
+ 
+Her mother ended upp in an abusive partnership with an abusive and at times violent man. 
+
+Veronika jumps from the window when the man tries to abuse her. Second floor. 
