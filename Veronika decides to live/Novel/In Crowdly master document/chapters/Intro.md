@@ -1,0 +1,1 @@
+Now when you finished reading the book, Life is too short, no matter how many years you’ve lived and whatever you do with your life is up to you. But if this reaches you—reader, witness—remember: decide to live. Not just for yourself. Change the world, in whatever capacity you can. Plant a garden. Speak truth. Act. Before the apocalypse claims us all. 
