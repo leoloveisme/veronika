@@ -8,7 +8,7 @@ death by a drone bombing attempting to save / saving local children in Gaza /
 Ukraine.
 
 At the current stage I decided to go parallel with Libre Office and Crowdly app
-for novel because it enables to create a master document. 
+for both novel and screenplay because it enables to create a master document. 
 [Crowdly](https://github.com/leoloveisme/crowdly)'s master document
 functionality is maturing, and currently it is mature enough to be used for
 both novels and screenplays. We're actively working on improving formatting in
@@ -27,5 +27,5 @@ This story could be a branching story - see brainstorming.md for Ukraine / Gaza
 argument.*
 
 \* the argument is currently solved (more information about it in the
-brainstorming.md and in the book and book supporting files
+brainstorming.md and in the book and book supporting files)
 
