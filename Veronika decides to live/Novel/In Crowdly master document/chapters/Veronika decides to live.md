@@ -1,4 +1,3 @@
-
 EXT - on street in Gaza - DAY
 (Veronika speaks in Arabic to children she wants to lead to shelter)
 OS - COMMs between military 

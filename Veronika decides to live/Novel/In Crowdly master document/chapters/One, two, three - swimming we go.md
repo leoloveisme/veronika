@@ -1,5 +1,3 @@
-
-
 Ice swimming.
 
 (work)

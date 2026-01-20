@@ -1,5 +1,4 @@
-
-(entry New Delhi November 1999)
+point of entry - New Delhi, November 1999
 DATE / PLACE DISPLAY ON SCR.
 November 1999, New Delhi
 New Delhi 
@@ -14,7 +13,7 @@ Varkala
 
 When I was a child I was drowning once and even though I was rescued timely - and later into the years I learned how to swim - respect for water remained, that why when an old Gypsy woman told her once that I will die of drowning it even emphasized the cocktail of fear and respect for water together. These words of this old Gypsy woman, you can say, remained stuck with her, and became deeply ingrained into her. I always was and is very cautions when entering water and when I was in water. That why I was not very thrilled about when I was invited to drive or go swimming, especially in somewhat dangerous unsupervised waters like sea or even more cautions when it was about an ocean, like it was here in India. 
 
-** Varkala **
+**Varkala**
 
 some persistent interest from a male over several days
 He was very well behaved and extremely polite ALL the fucking time and this appalled me and on the other hand made him extremely attractive for me. 
@@ -78,6 +77,17 @@ EXT - Outside of the hotel - NEXT DAY
 (Took Took is there - leaving for Kochi by train - drive to the train station)
 It is heavy enough with one child and now there is a second one growing in my belly
 Shall I make an abortion? No one would know about that. I almost killed myself once...How can I cancel the life which doesn't truly belong to me? Should I not leave that decision to the child?
-(India can be VERY overwhelming and so can be unexpected pregnancy, when combined they lead one to the state of deep despair)
+India can be VERY overwhelming and so can be unexpected pregnancy, when combined they lead one to the state of deep despair and then your fate adds fire into your life.
+
+## Fire
+
+It was a regular resort in India, in which I was already staying many times across India. 
+
 Eduard comes to India for support and they go to Goa: 
-first Agonda, then Arambol and then they fly to Switzerland 
+first Agonda, then Arambol and then they fly to Switzerland
+
+**TL;DR / Summary**
+
+Veronika flies to India with her baby boy Luka
+She travels from the north of India to the south
+Closer to the end of their journey Eduard comes into India, too and they all return back to Switzerland

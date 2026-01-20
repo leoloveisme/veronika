@@ -1,3 +1,4 @@
+New Delhi, January 2025
 
 (off work / work ???)
 January 2025
@@ -10,7 +11,7 @@ May 2025
 We are here at the XYZ farm 
 viper bite
 
-New Delhi, January 2025
+
 (off work / work ???)
 New Delhi
 North India

@@ -1,4 +1,3 @@
-
 January 1999 Move to Switzerland, Bern (Eduard's paintings are suddenly starting to sell / selling great there)
 EXT - Panoramic aerial view of the houses - DAY
 It was a relatively small house with another small guest house, which Eduard seized for / claimed as his painting studio
@@ -21,4 +20,4 @@ When you give birth to a child or more than one you're kind of expected to know 
 Birth of the boy
 And even though I was not underage when I gave birth to our first child, I still was very far from being perfect person and perfect mother. 
 Veronika's writing career takes off
-They (Veronika & Eduard) become VERY wealthy 
+They (Veronika & Eduard) become VERY wealthy

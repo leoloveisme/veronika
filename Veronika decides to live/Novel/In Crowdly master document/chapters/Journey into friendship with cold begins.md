@@ -1,3 +1,7 @@
+Point of entry - Suvarnabhumi airport, Bangkok, December 2006
+
+When you exist the pleasantly cool airport building the wave of hot air hugs you with all might, like a child, who did see you for quite a long time, and the hot air hugs and kisses you.
+We took a taxi and got into our hotel, where we'll spend the night and tomorrow in the evening will go up north first to north Thailand and then Laos. 
 
 South-East Asia
 (work)
@@ -39,8 +43,10 @@ Cambodia
 Malaysia
 Singapore
 Vietnam
-
 Bangkok 
+
+## Water
+
 North Thailand
 (work)
 It supposed to be warm in tropical countries – however being here in December in the North of Thailand has brought the memories of North India. 

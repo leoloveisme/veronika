@@ -1,1 +1,3 @@
-Now when you finished reading the book, Life is too short, no matter how many years you’ve lived and whatever you do with your life is up to you. But if this reaches you—reader, witness—remember: decide to live. Not just for yourself. Change the world, in whatever capacity you can. Plant a garden. Speak truth. Act. Before the apocalypse claims us all. 
+I really loved “Veronika decides to die” and once I finished reading the book I
+had several thoughts: 1. the book is too short 2. the story isn’t finished
+That’s why I decided to write this book. Munich, November 2025

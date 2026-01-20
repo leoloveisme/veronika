@@ -1,4 +1,3 @@
-
 (work)
 Entering US in Alaska and going down the south of the continent 
 FLY-INS
