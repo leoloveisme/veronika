@@ -21,7 +21,7 @@ using Libre Office
 of the novel
 
 Currently I'm looking for a female co-author for the book: both novel and
-screenplay
+screenplay, ideally Slovenian (30 - 50 y.o.)
 
 This story could be a branching story - see brainstorming.md for Ukraine / Gaza
 argument.*
