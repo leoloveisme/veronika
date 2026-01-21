@@ -50,3 +50,5 @@ The whole day she was preparing herself for this - she rubbed herself against hi
 When he came to the blanket and copied her pose she pressed him onto his shoulders, him ending up lying on his back and ... 
 she kissed and rode him, she rode and kissed him very well that night.
 In the morning Eduard drives them to the airport. They kiss and she waves goodbye, after having entered the gate.
+**TL;DR / Summary**
+Veronika gathers paperwork for Indian visa and goes to Vienna to get Indian visa

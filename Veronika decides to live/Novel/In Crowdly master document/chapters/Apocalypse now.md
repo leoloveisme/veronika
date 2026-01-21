@@ -9,3 +9,6 @@ EXT - on street in Gaza - Day
 It was a blast that deformed yet another piece of a building, now resembling the rest of the nearly completely demolished neighborhood… 
 War is a heartless machine, a creation of politicians. It takes no precautions and differentiates nothing among beings: be it a cat, a dog, a child, or a grown-up. 
 Heat and destruction are bad partners; add dust and smoke, and you have a nearly apocalyptic premise laid out right before our eyes.
+
+**TL;DR / Summary**
+rocket flies into a building and demolishes it

@@ -81,13 +81,18 @@ India can be VERY overwhelming and so can be unexpected pregnancy, when combined
 
 ## Fire
 
-It was a regular resort in India, in which I was already staying many times across India. 
+Eduard comes to India for support and they go to Goa: first Agonda, then Arambol 
 
-Eduard comes to India for support and they go to Goa: 
-first Agonda, then Arambol and then they fly to Switzerland
+VERONIKA
+It was a regular resort in India, in which I already stayed many times across India. 
+EDUARD
+Luckily it was the night before our departure and I packed almost all of our things 
+I woke up feeling that it became unusually hot in our room. When I opened my eyes I saw some kind of weird light at the ceiling area of our room. It took me some time to understand what was going on here. I jumped to my feet, kneeled myself onto the bed and gently pushed Veronika trying to wake her. Luckily she woke up relatively easy. When I saw the light in her eyes and her conscious receiving me - I've shown to her what was going on. She nearly shouted "Oh my God". I put my finger to the lips, indicating that she should be quiet. She took Luka from the crib and I walked them out of the door. Once they were at the safe distance I explained to Veronika that I need to go back to get our stuff and I went back - in parallel knocking on the doors and waking up people. Soon the whole area was very loud. People were shouting and articulating, while I was carrying our lagguage out of our room. I didn't dare to return for the stroller, because the fire became quite strong already. 
+We didn't sleep that night anymore. In the morning we as we were were taken to the airport and then we flew first to New Delhi and from there - to Switzerland 
 
 **TL;DR / Summary**
 
 Veronika flies to India with her baby boy Luka
 She travels from the north of India to the south
+She discovers that she is pregnant with the second child
 Closer to the end of their journey Eduard comes into India, too and they all return back to Switzerland

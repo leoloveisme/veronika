@@ -5,7 +5,7 @@ What’s next?
 Preparing for India	
 India
 - Fire	
-Some years of life (after India)	
+Hello Great Britain	
 Spain, here I come
 The cage door is open at last	
 Journey into friendship with cold begins
