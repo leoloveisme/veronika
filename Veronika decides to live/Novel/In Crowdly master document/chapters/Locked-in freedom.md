@@ -52,4 +52,4 @@ transition to Colombia June 2022
 had some situationships with some of Zala girlfriends (most of them thanks to Zala) but during pandemics was
 found by his proper girlfriend on Bumble. (Slovenian or British - TBD)
 
-meets his proper stable girlfriend during lockdown (What is her name? She is 2 - 5 years older than him)
+meets his proper stable girlfriend during lockdown (What is her name? She is 5 years older than him - born 1994)

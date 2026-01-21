@@ -85,6 +85,13 @@ like, and this is fucking exhausting.
 - Lives in Colombia as adult
 - **After Veronika's death:** Continues humanitarian work (specifics TBD)
 
+
+Matej (born 1976)
+
+Ana (born 1980)
+
+Girlfriend of Luka (what's her name?) born 1994
+
 **Almost lover in India**
 
 Russian / German from Dubai
