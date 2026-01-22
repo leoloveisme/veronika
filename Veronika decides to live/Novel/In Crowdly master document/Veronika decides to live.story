@@ -22,6 +22,8 @@
 
 [paragraph left]The cage door is open at last [/paragraph]
 
+[paragraph left]What is it ALL for?[/paragraph]
+
 [paragraph left]Getting friends with cold [/paragraph]
 
 [paragraph left]- Water [/paragraph]
@@ -34,7 +36,7 @@
 
 [paragraph left]Latin America [/paragraph]
 
-[paragraph left]What is it all for?[/paragraph]
+[paragraph left]WHAT IS IT ALL FOR?[/paragraph]
 
 [paragraph left]Locked-in freedom [/paragraph]
 
@@ -124,7 +126,7 @@
 
 [paragraph left]FADE OUT TITLE - "Some time later" [/paragraph]
 
-[paragraph left]Eduard and Veronika got married and live in a house on land with Rduard's parents. [/paragraph]
+[paragraph left]Eduard and Veronika got married and live in a house on land with Eduard's parents. [/paragraph]
 
 [paragraph left]Eduard's paintings "suddenly" starting to sell (his influential parents pulled the strings) [/paragraph]
 
@@ -140,11 +142,21 @@
 
 [paragraph left]His parents influence in Eduard's money savvy-ness (Matroskin cat mentality - I'll save) [/paragraph]
 
+[paragraph left]The time since our escape from the “mad house” and our marriage just flew: [/paragraph]
+
+[paragraph left]Veronika becomes anchor woman on Slovenian TV - very short TV career on Slovenian TV[/paragraph]
+
 [paragraph left]Veronika starts writing [/paragraph]
 
 [paragraph left bold]TL;DR / Summary[/paragraph]
 
 [paragraph left]Veronika and Eduard get married and move in with Eduard's parents[/paragraph]
+
+[paragraph left]Eduard's paintings "suddenly" starting to sell (his influential parents pulled the strings) [/paragraph]
+
+[paragraph left]Veronika becomes anchor woman on Slovenian TV[/paragraph]
+
+[paragraph left]Veronika starts writing [/paragraph]
 
 [chapter_title left bold]What's next[/chapter_title]
 
@@ -163,10 +175,6 @@
 [paragraph left]Veronika's writing career takes off [/paragraph]
 
 [paragraph left]They (Veronika & Eduard) become VERY wealthy [/paragraph]
-
-[paragraph left]The time since our escape from the “mad house” and our marriage just flew: [/paragraph]
-
-[paragraph left]There was so much change in the world and me becoming pregnant with our first child also somewhat contributed to that too, then the second child was born as well and somehow after all these sleepless days and nights and you experiencing the reality as if in the haze also contributed to The fall of the Berlin wall opened and the collapse of the Soviet Union has started new era of life. Shortly after Slovenia became it’s own country and became independent. Due to my looks (both males and females found me extremely attractive) and hopefuly to my brains it was quite easy to become an new anchor on the Slovenian TV and later on one of the major UK TV channels and I was quite a decent writer, too. Writing fell easy for me and I felt that I was good at words; both written and spoken. Strangelly enough words appeared in my head as by themselves flying in quickly like commets with their cosmic speed. When you give birth to a child or more than one you're kind of expected to know everything. At least this is the expectation the world places on you. And it is quite dishearthening to know that this expection / these expectations are far far away, thousands upon thousands miles away from the reality you live day after day after day. Just imagine the mountain Everest of expectations placed onto the fragile shoulders of underage mothers. Technically I wasn’t underage, however from the general ripeness I was also quite far. [/paragraph]
 
 [paragraph left]And even though I was not underage when I gave birth to our first child, I still was very far from being perfect person and perfect mother. [/paragraph]
 
@@ -218,7 +226,51 @@
 
 [paragraph left italic]VO (Veronika) [/paragraph]
 
-[paragraph left]It is heavy enough with one child and now there is a second one growing in my belly CONT'D VO (Veronika) shall I make an abortion? No one would know about that (What stops her from having that abortion? What stops her from having abortion in the end?) VO (Veronika) I almost killed myself once... How can I cancel the life which doesn't truly belong to me? Should I not leave that decision to the child? (India can be VERY overwhelming and so can be unexpected pregnancy, when combined they lead one to the state of deep despair) Eduard comes to India for support and they go to Goa: first Agonda and then Arambol and then return to Switzerland When I was a child I was drowning once and even though I was rescued timely - and later into the years I learned how to swim - respect for water remained, that why when an old Gypsy woman told her once that I will die of drowning it even emphasized the cocktail of fear and respect for water together. These words of this old Gypsy woman, you can say, remained stuck with her, and became deeply ingrained into her. I always was and is very cautions when entering water and when I was in water. That why I was not very thrilled about when I was invited to drive or go swimming, especially in somewhat dangerous unsupervised waters like sea or even more cautions when it was about an ocean, like it was here in India. Varkala some persistent interest from a male over several days He was very well behaved and extremely polite ALL the fucking time and this appauled me and on the other hand made him etremely attractive for me. I was returning from my yoga session in the morning and even though it was morning it was already very hot. When I was returning from the yoga session for mothers - there were all kind of women there: Russian, Indian, Australian and me; I was not in my best shape and yet he has overshowered me with compliments for how beautiful I am and how great I look. I met a guy, who besides showering me with compliments every time he saw me, even when I didn’t look very appealing, not that I cared. He gave me some books to read He invited me into one of the local restaurants we had a lunch, spoke about pretty much under sun. I told him about the books I was reading and he was telling me about the books he was reading and in return I exchanged a couple of books, which I already read at the local book shop and gave him two books as a gift, because he told me that he haven’t read them yet: “Shantaram” - story of love, friendship and war and “Fine Balance” - a very depressing one and nevertheless quite accurately depicting India as it was before, which in turn helps one to grasp / understand why it is still the way it is now. Next day our paths have crossed again. Was he stocking me? And he invited me to another restaurant. The restaurant was overlooking ocean and I as usually ate while I breastfed my boyThe conversation was light and flew easily and unconstrained. Once we were done, he walked us to our hotel and I invited him to come to the room In the room I put the boy to bed and he came to me and kissed me He started gently undress her I played with his hair sudden vomit reaction (Veronika) VERONIKA and I vomitted directly onto him I apologized and run into the bathroom The guy remained staying speechless for some time and then just left When I came out – he has already left. (the male being a gentlemen leaves while I is still in the bathroom) (Emotional breakdown) (so I discovered / became aware that I am pregnant) Fuck, I’m pregnant, again. Finding out that I was pregnant was an interesting surprise. EXT - Outside of the hotel - NEXT DAY (Took Took is there \- leaving for Kochi by train - drive to the train station) It is heavy enough with one child and now there is a second one growing in my belly Shall I make an abortion? No one would know about that. I almost killed myself once...How can I cancel the life which doesn't truly belong to me? Should I not leave that decision to the child? India can be VERY overwhelming and so can be unexpected pregnancy, when combined they lead one to the state of deep despair and then your fate adds fire into your life. [/paragraph]
+[paragraph left]It is heavy enough with one child and now there is a second one growing in my belly [/paragraph]
+
+[paragraph left]CONT'D [/paragraph]
+
+[paragraph left italic]VO (Veronika) [/paragraph]
+
+[paragraph left]Shall I make an abortion? No one would know about that (What stops her from having that abortion? What stops her from having abortion in the end?) [/paragraph]
+
+[paragraph left]When I was a child I was drowning once and even though I was rescued timely - and later into the years I learned how to swim - respect for water remained, that why when an old Gypsy woman told her once that I will die of drowning it even emphasized the cocktail of fear and respect for water together. These words of this old Gypsy woman, you can say, remained stuck with her, and became deeply ingrained into her. I always was and is very cautions when entering water and when I was in water. That why I was not very thrilled about when I was invited to drive or go swimming, especially in somewhat dangerous unsupervised waters like sea or even more cautions when it was about an ocean, like it was here in India. Varkala some persistent interest from a male over several days He was very well behaved and extremely polite ALL the fucking time and this appauled me and on the other hand made him etremely attractive for me. I was returning from my yoga session in the morning and even though it was morning it was already very hot. When I was returning from the yoga session for mothers - there were all kind of women there: Russian, Indian, Australian and me; I was not in my best shape and yet he has overshowered me with compliments for how beautiful I am and how great I look. I met a guy, who besides showering me with compliments every time he saw me, even when I didn’t look very appealing, not that I cared. He gave me some books to read He invited me into one of the local restaurants we had a lunch, spoke about pretty much under sun. I told him about the books I was reading and he was telling me about the books he was reading and in return I exchanged a couple of books, which I already read at the local book shop and gave him two books as a gift, because he told me that he haven’t read them yet: “Shantaram” - story of love, friendship and war and “Fine Balance” - a very depressing one and nevertheless quite accurately depicting India as it was before, which in turn helps one to grasp / understand why it is still the way it is now. Next day our paths have crossed again. Was he stocking me? And he invited me to another restaurant. The restaurant was overlooking ocean and I as usually ate while I breastfed my boyThe conversation was light and flew easily and unconstrained. Once we were done, he walked us to our hotel and I invited him to come to the room In the room I put the boy to bed and he came to me and kissed me He started gently undress her I played with his hair sudden vomit reaction (Veronika) [/paragraph]
+
+[paragraph left]VERONIKA [/paragraph]
+
+[paragraph left]I vomitted directly onto him [/paragraph]
+
+[paragraph left]I apologized and run into the bathroom [/paragraph]
+
+[paragraph left]The guy remained staying speechless for some time and then just left [/paragraph]
+
+[paragraph left]When I came out – he has already left. [/paragraph]
+
+[paragraph left](the male being a gentlemen leaves while I is still in the bathroom) [/paragraph]
+
+[paragraph left](Emotional breakdown) [/paragraph]
+
+[paragraph left](so I discovered / became aware that I am pregnant) [/paragraph]
+
+[paragraph left]Fuck, I’m pregnant, again. Finding out that I was pregnant was an interesting surprise. [/paragraph]
+
+[paragraph left]EXT - Outside of the hotel - NEXT DAY [/paragraph]
+
+[paragraph left](Took Took is there \- leaving for Kochi by train - drive to the train station) [/paragraph]
+
+[paragraph left]It is heavy enough with one child and now there is a second one growing in my belly Shall I make an abortion? No one would know about that. I almost killed myself once... [/paragraph]
+
+[paragraph left italic]VO (Veronika) [/paragraph]
+
+[paragraph left]I almost killed myself once... How can I cancel the life which doesn't truly belong to me? Should I not leave that decision to the child? [/paragraph]
+
+[paragraph left]How can I cancel the life which doesn't truly belong to me? [/paragraph]
+
+[paragraph left]Should I not leave that decision to the child? [/paragraph]
+
+[paragraph left]India can be VERY overwhelming and so can be unexpected pregnancy, when combined they lead one to the state of deep despair and then... [/paragraph]
+
+[paragraph left]your fate adds some fire into your life. [/paragraph]
 
 [chapter_title left bold]Fire[/chapter_title]
 
@@ -282,9 +334,11 @@
 
 [paragraph left]And some of my books also sell. Writing with an Eastern Europen humor about being a mother was surprisingly well received by the international auditories. [/paragraph]
 
-[paragraph left]Beginning of Veronika's TV career[/paragraph]
+[paragraph left]Beginning of Veronika's TV career in the UK[/paragraph]
 
 [paragraph left]They (Veronika & Eduard) become VERY wealthy [/paragraph]
+
+[paragraph left]There was so much change in the world and me becoming pregnant with our first child also somewhat contributed to that too, then the second child was born as well and somehow after all these sleepless days and nights and you experiencing the reality as if in the haze also contributed to The fall of the Berlin wall opened and the collapse of the Soviet Union has started new era of life. Shortly after Slovenia became it’s own country and became independent. Due to my looks (both males and females found me extremely attractive) and hopefuly to my brains it was quite easy to become an new anchor on the Slovenian TV and later on one of the major UK TV channels and I was quite a decent writer, too. Writing fell easy for me and I felt that I was good at words; both written and spoken. Strangelly enough words appeared in my head as by themselves flying in quickly like commets with their cosmic speed. When you give birth to a child or more than one you're kind of expected to know everything. At least this is the expectation the world places on you. And it is quite dishearthening to know that this expection / these expectations are far far away, thousands upon thousands miles away from the reality you live day after day after day. Just imagine the mountain Everest of expectations placed onto the fragile shoulders of underage mothers. Technically I wasn’t underage, however from the general ripeness I was also quite far. [/paragraph]
 
 [paragraph left bold]TL;DR / Summary[/paragraph]
 
@@ -296,7 +350,7 @@
 
 [paragraph left]Veronika's writing career takes off [/paragraph]
 
-[paragraph left]Beginning of Veronika's TV career[/paragraph]
+[paragraph left]Beginning of Veronika's TV career in the UK[/paragraph]
 
 [paragraph left]They (Veronika & Eduard) become VERY wealthy [/paragraph]
 
@@ -304,9 +358,35 @@
 
 [paragraph left]point of entry - Madrid international airport, May 2004[/paragraph]
 
-[paragraph left](work) May 2004 - Spain, Madrid Madrid Zaragoza Barcelona Valencia Granada Marbella Giblartar Seville Cordoba Madrid INT - hotel room - NIGHT News on TV (Slovenia joined EU) (off work) Andalusia - sudden discovery of a yoga and breathwork retreat in the hills of Andalusia In 2004 Slovenia joined the EU and the doors into the world were practically open for everyone. And it practically was the time for me to go to Madrid, again, where I would …. May 2004 - Spain, Madrid (work) Madrid Zaragoza Barcelona Valencia Granada Marbella Giblartar Seville Cordoba Madrid INT - hotel room - NIGHT News on TV (Slovenia joined EU) (off work) Andalusia - sudden discovery of a yoga and breathwork retreat in the hills of Andalusia August 2004 Throughout his life Eduard was not very talkative outside of the family. Within the family he wasn’t a chatter box either, however he loved both children and we (he and I) talked about pretty much everything, as well. And at times – yes, he absolutely was a chatterbox. And this were memorable moments, as well. Both children were off the breast for quite some time now and the question “What’s next” resurfaced again. Point of entry - Madrid (was pretty boring) Funnily enough exactly in Spain and not in India I was initially introduced to yoga and breath work techniques. (even though she was to India, first) Or maybe it was last A of AIDA - awareness, interest, desire, action(s) Yoga & Breathwork Introduction: Early 2000s Spain (especially Andalusia—think Sierra Nevada foothills, olive groves, white villages) had a growing alternative scene: small retreats in fincas, influenced by Ibiza's hippie legacy and incoming Europeans. Pranayama, Hatha and Vinyasa yoga, early breath workshops were there—perfect seed for her later ice-breath control. It’s a luxury only a few can afford themselves nowadays to get lost in the hill of Andalusia without any plans or agenda. And this is exactly where I see them – doing yoga in the morning rose-pink light. And something in mir says – yes, it is them, this is exactly where I supposed to be. Introduction into yoga and breathwork Spanish language acquisition [/paragraph]
+[paragraph left](work) May 2004 [/paragraph]
 
-[paragraph left]some years later [/paragraph]
+[paragraph left]Spain[/paragraph]
+
+[paragraph left]Madrid [/paragraph]
+
+[paragraph left]Zaragoza [/paragraph]
+
+[paragraph left]Barcelona [/paragraph]
+
+[paragraph left]Valencia [/paragraph]
+
+[paragraph left]Granada [/paragraph]
+
+[paragraph left]Marbella [/paragraph]
+
+[paragraph left]Giblartar [/paragraph]
+
+[paragraph left]Seville [/paragraph]
+
+[paragraph left]Cordoba [/paragraph]
+
+[paragraph left]Madrid [/paragraph]
+
+[paragraph left]INT - hotel room - NIGHT [/paragraph]
+
+[paragraph left]News on TV [/paragraph]
+
+[paragraph left](Slovenia joined EU) [/paragraph]
 
 [paragraph left bold]TL;DR / Summary[/paragraph]
 
@@ -316,7 +396,11 @@
 
 [paragraph left]my soul can fly now. [/paragraph]
 
-[paragraph left]Since Slovenia joined the EU it became very easy to travel. In 2004 Slovenia joined the EU and the doors into the world were practically open for everyone. And it practically was the time for me to go to Madrid, again, where I would …. Once one gets bitten by “travel bug” one gets it running for quite a long while / time and some never get off it.Seeing other countries and experiencing other cultures, beautiful architecture and bright vibrant clothes of the south, eating tasty foods and fruits.All this makes us wanting more: other countries, other foods and fruits, other clothes and different architecture. However I didn’t know all this at the time of me preparing for my very first trip to India. India is one of the countries, which has very different architecture, from Mogul inspired to French, tasty fruits and nasty monkeys and crows, which will steal your food, at any given opportunity and before you get to know all that you have to travel there and to experience stories told by people who travelled and shared stories about their amazing or not so amazing travel experiences And then one day I had some pain in the right breast I went to the doctors They said that they would need to operate me I joked now I will be like real life Amazonian They used fire to get rid of the right breast because it would prevent them from using / shooting bows I would be able to shoot bows perfectly To gather my thoughts I said to Eduard, that I'll go to South-East Asia with my crew and will stay there a bit longer after the work will be done. It would turn out that the diagnose was false, but that she would get to know later. [/paragraph]
+[paragraph left]Since Slovenia joined the EU it became very easy to travel. In 2004 Slovenia joined the EU and the doors into the world were practically open for everyone. And it practically was the time for me to go to Spain, again, where I would ….[/paragraph]
+
+[paragraph left](off work) Andalusia - sudden discovery of a yoga and breathwork retreat in the hills of Andalusia In 2004 Slovenia joined the EU and the doors into the world were practically open for everyone. And it practically was the time for me to go to Madrid, again, where I would …. May 2004 - Spain, Madrid (work) Madrid Zaragoza Barcelona Valencia Granada Marbella Giblartar Seville Cordoba Madrid INT - hotel room - NIGHT News on TV (Slovenia joined EU) (off work) Andalusia - sudden discovery of a yoga and breathwork retreat in the hills of Andalusia August 2004 Throughout his life Eduard was not very talkative outside of the family. Within the family he wasn’t a chatter box either, however he loved both children and we (he and I) talked about pretty much everything, as well. And at times – yes, he absolutely was a chatterbox. And this were memorable moments, as well. Both children were off the breast for quite some time now and the question “What’s next” resurfaced again. Point of entry - Madrid (was pretty boring) Funnily enough exactly in Spain and not in India I was initially introduced to yoga and breath work techniques. (even though she was to India, first) Or maybe it was last A of AIDA - awareness, interest, desire, action(s) Yoga & Breathwork Introduction: Early 2000s Spain (especially Andalusia—think Sierra Nevada foothills, olive groves, white villages) had a growing alternative scene: small retreats in fincas, influenced by Ibiza's hippie legacy and incoming Europeans. Pranayama, Hatha and Vinyasa yoga, early breath workshops were there—perfect seed for her later ice-breath control. It’s a luxury only a few can afford themselves nowadays to get lost in the hill of Andalusia without any plans or agenda. And this is exactly where I see them – doing yoga in the morning rose-pink light. And something in mir says – yes, it is them, this is exactly where I supposed to be. Introduction into yoga and breathwork Spanish language acquisition [/paragraph]
+
+[paragraph left]Once one gets bitten by “travel bug” one gets it running for quite a long while / time and some never get off it.Seeing other countries and experiencing other cultures, beautiful architecture and bright vibrant clothes of the south, eating tasty foods and fruits.All this makes us wanting more: other countries, other foods and fruits, other clothes and different architecture. However I didn’t know all this at the time of me preparing for my very first trip to India. India is one of the countries, which has very different architecture, from Mogul inspired to French, tasty fruits and nasty monkeys and crows, which will steal your food, at any given opportunity and before you get to know all that you have to travel there and to experience stories told by people who travelled and shared stories about their amazing or not so amazing travel experiences And then one day I had some pain in the right breast I went to the doctors They said that they would need to operate me I joked now I will be like real life Amazonian They used fire to get rid of the right breast because it would prevent them from using / shooting bows I would be able to shoot bows perfectly To gather my thoughts I said to Eduard, that I'll go to South-East Asia with my crew and will stay there a bit longer after the work will be done. It would turn out that the diagnose was false, but that she would get to know later. [/paragraph]
 
 [paragraph left bold]TL;DR / Summmary [/paragraph]
 
@@ -324,11 +408,9 @@
 
 [paragraph left]Introduction into yoga and breath work in the hills of Andalusia[/paragraph]
 
-[chapter_title left bold]Some years of life after Spain[/chapter_title]
+[chapter_title left bold]What is it ALL for?[/chapter_title]
 
 [paragraph left]Life was just going full it's typical yearly events and some other less predictable stuffs [/paragraph]
-
-[paragraph left bold]What is it ALL for?[/paragraph]
 
 [paragraph left]My children ended up seeing me more on the TV screen than at home[/paragraph]
 
@@ -434,7 +516,7 @@
 
 [paragraph left]Veronika gets her Auyaska experience in Latin America[/paragraph]
 
-[chapter_title left bold]What is it all for?[/chapter_title]
+[chapter_title left bold]WHAT IS IT ALL FOR?[/chapter_title]
 
 [paragraph left]2011 - 2020 [/paragraph]
 
