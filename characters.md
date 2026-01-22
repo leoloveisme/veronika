@@ -88,7 +88,7 @@ like, and this is fucking exhausting.
 
 Matej (born 1976)
 
-Ana (born 1980)
+Ana (born 1976)
 
 Girlfriend of Luka (what's her name?) born 1994
 
