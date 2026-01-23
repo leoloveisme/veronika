@@ -88,6 +88,8 @@
 
 [chapter_title left bold]Life goes on[/chapter_title]
 
+[paragraph left]Lubljana, 17 April 1998 [/paragraph]
+
 [paragraph left]EXT - LJUBLJANA - EARLY MORNING [/paragraph]
 
 [paragraph left]VERONIKA & EDUARD [/paragraph]
@@ -144,7 +146,7 @@
 
 [paragraph left]The time since our escape from the “mad house” and our marriage just flew: [/paragraph]
 
-[paragraph left]Veronika becomes anchor woman on Slovenian TV - very short TV career on Slovenian TV[/paragraph]
+[paragraph left]Out of the blue I was invited to become anchor for one of the Slovenian TV channels (not so out of the blue - again, Eduard parents influence) Veronika becomes anchor woman on Slovenian TV - very short TV career on Slovenian TV[/paragraph]
 
 [paragraph left]Veronika starts writing [/paragraph]
 
@@ -172,17 +174,21 @@
 
 [paragraph left]10 February 1999 Birth of their boy - Luka [/paragraph]
 
+[paragraph left]And even though I was not underage when I gave birth to our first child, I still was very far from being perfect person and perfect mother. [/paragraph]
+
 [paragraph left]Veronika's writing career takes off [/paragraph]
 
 [paragraph left]They (Veronika & Eduard) become VERY wealthy [/paragraph]
-
-[paragraph left]And even though I was not underage when I gave birth to our first child, I still was very far from being perfect person and perfect mother. [/paragraph]
 
 [paragraph left bold]TL;DR / Summary[/paragraph]
 
 [paragraph left]Veronika and Eduard move to Switzerland[/paragraph]
 
 [paragraph left]Birth of their boy - Luka[/paragraph]
+
+[paragraph left]Veronika's writing career takes off [/paragraph]
+
+[paragraph left]They (Veronika & Eduard) become VERY wealthy [/paragraph]
 
 [chapter_title left bold]Preparing for India[/chapter_title]
 
@@ -380,7 +386,7 @@
 
 [paragraph left]Switzerland and all it's rules are suffocating [/paragraph]
 
-[paragraph left]VERONIKA[/paragraph]
+[paragraph left italic]VO (Veronika)[/paragraph]
 
 [paragraph left]I don't know where this idea of a move to the UK came from, but we both almost in parallel decided, voiced and agreed on moving to the UK.[/paragraph]
 

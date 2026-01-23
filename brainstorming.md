@@ -1,18 +1,80 @@
 # Brainstorming space for the book's story (characters, locations, etc)
 
-## Additional input after using Milanote visual boards
+
+This person below is the inspiration for Eduard
+
+Wilhelm Sasnal was born on December 29, 1972, in Tarnów, Poland, and currently lives and works in Kraków.  He is married to Anka Sasnal, a collaborator with whom he has co-created several films, including It Looks Better From a Distance (2011) and The Assistant (2024).  The couple has a son, Kacper, whose birth and early life were documented in Sasnal’s 2001 comic book Życie codzienne w Polsce (Everyday Life in Poland), a semi-autobiographical work reflecting on family, personal milestones, and post-communist Polish society. 
+
+Sasnal’s personal life is deeply interwoven with his artistic practice, as he frequently draws from intimate moments—family snapshots, domestic scenes, and personal memories—transforming them into broader reflections on identity, history, and collective memory. His work often explores emotional distance and ambiguity, using titles to reveal personal connections to otherwise neutral or media-sourced imagery. 
+
+---
+
+Tanja Starič is a Slovenian journalist, presenter of the show Echoes on RTV Slovenia and editor. She was born on April 2, 1962 in Novi Mesto.
+
+Family: She is closely related to a family that has a strong connection to journalism. Her mother lives in a home for the elderly, where she visits at least once a week. Her partner, Miha, is also a journalist, so they understand professional stress and unpredictable schedules.
+Son: Their only son studied in Prague and Paris as part of the Erasmus program, currently lives in Ljubljana and majors in economics. The old woman mentioned that it was difficult when her son left home, but they survived the turning point with a new, friendly relationship without a child.
+Lifestyle: Lives in Ljubljana, where he is renovating his grandmother's house. He attends tourist and cultural events, especially with an interest in sports, especially football, and is a big fan of Arsenal.
+Interesting facts: Her personal life is not connected with the scandal, which, according to her, is the reason why she is not interesting on the Internet. She mentions that she led a "road trip" through the Balkans with her partner, which was important for maintaining the relationship after the child left.
+Starič also appears as a co-author of the podcast The Art of the Possible with Aleš Kocjan.
+
+https://en.wikipedia.org/wiki/Kasia_Madera
+
+---
+
+
+Brexit occurred on 31 January 2020, when the United Kingdom officially left the European Union.  The withdrawal took effect at 11:00 PM GMT (midnight CET), marking the end of the UK's 47-year membership in the EU. This followed a referendum held on 23 June 2016, in which voters chose to leave the bloc by a margin of 51.9% to 48.1%.  The formal process began on 29 March 2017 when Prime Minister Theresa May triggered Article 50 of the Treaty on European Union. After multiple delays and political challenges, a withdrawal agreement was ratified by the UK Parliament, leading to the UK's departure. A transition period then began, ending on 31 December 2020, after which the UK fully exited the EU single market and customs union. 
+
+
+Impact of Brexit on EU Citizens Already Living in the UK
+EU citizens who were already residing in the UK by 11:00 PM on 31 December 2020 had their rights protected under the EU-UK Withdrawal Agreement.  However, they were required to apply to the EU Settlement Scheme (EUSS) to secure their status and continue living in the UK. 
+
+1. EU Settlement Scheme (EUSS)
+Settled Status: Granted to those who had lived in the UK continuously for at least five years. It is equivalent to Indefinite Leave to Remain (ILR), allowing indefinite residence, work, study, and access to public services. 
+Pre-Settled Status: Given to those who had not yet completed five years of continuous residence. This status is valid for five years, during which time individuals can accumulate the required residence period to apply for settled status. 
+
+2. Rights and Benefits
+Holders of settled or pre-settled status retain the right to:
+
+Work and study in the UK
+Access healthcare (NHS), pensions, and public funds (if eligible)
+Rent property
+Apply for British citizenship (after meeting additional requirements) 
+
+3. Family Members
+Close family members (spouses, children, dependent parents) who were in the UK by the deadline could apply under the scheme.
+Family members joining later must prove their relationship existed by 31 December 2020. 
+Children born or adopted after this date are also protected under the scheme.
+
+4. Travel and Documentation
+Status is held digitally; no physical proof is issued unless requested or required (e.g., non-EU family members). 
+A share code can be generated to verify status with employers or landlords. 
+Travel in and out of the UK is permitted, but settled status may be lost after five continuous years abroad (four years for Swiss citizens). 
+
+
+
+## Eduard
+
+was able to make friends with major gallery owners and was regularly exhibited
+in 2 other major metropoles besides London - in New York and Berlin. 
+
+Sometimes his paintings were just shipped there and sometimes he personally
+accompanied them. 
+
+It ALL depended on the requests of the gallery owners. 
+
+When he went to Berlin, he also usually went to Lubljana to visit his parents
+
+**Additional input after using Milanote visual boards**
 
 I created a Screenplay directory and placed it there
 
 - - -
-
-Eduard - I do it for our children's sake
-Luka - it's not a big deal (I don't believe it, too, but I do it nevertheless - convenience)
-Zala - fuck NO, it ALL is just a hoax
-Veronika - I don't fear it und honestly also like Zala do not believe it
+Eduard - I do it for our children's sake Luka - it's not a big deal (I don't
+believe it, too, but I do it nevertheless - convenience) Zala - fuck NO, it ALL
+is just a hoax Veronika - I don't fear it und honestly also like Zala do not
+believe it
 
 Fear kills - we ALL as a family do NOT fret in each family member own way
-
 
 Her son (the quiet one) has started a foundation funding humanitarian aid
 workers in conflict zones—named after his mother
