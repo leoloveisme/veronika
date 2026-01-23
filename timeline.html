@@ -23,20 +23,28 @@
             padding: 20px;
             background-color: var(--primary-bg);
             color: var(--text-color);
+            height: 100vh;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
         }
 
         .container {
-            max-width: 100%;
-            margin: 0 auto;
+            width: 100%;
             background: white;
             border-radius: 8px;
             box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
             overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            flex: 1; /* Takes remaining height */
+            max-height: calc(100vh - 40px); /* Subtract body padding */
         }
 
         .header {
             padding: 20px;
             border-bottom: 1px solid var(--border-color);
+            flex-shrink: 0; /* Header doesn't shrink */
         }
 
         h1 {
@@ -45,13 +53,18 @@
             font-size: 1.5rem;
         }
 
+        /* This wrapper now handles BOTH x and y scrolling.
+           The sticky headers work relative to this container.
+        */
         .table-wrapper {
-            overflow-x: auto;
+            overflow: auto; 
             width: 100%;
+            height: 100%;
         }
 
         table {
-            border-collapse: collapse;
+            border-collapse: separate; /* Required for sticky to work well with borders sometimes */
+            border-spacing: 0;
             width: 100%;
             min-width: 1400px;
             font-size: 0.9rem;
@@ -62,9 +75,11 @@
             padding: 12px 16px;
             text-align: left;
             border-bottom: 1px solid var(--border-color);
+            border-right: 1px solid transparent; /* Prevents border doubling */
             vertical-align: top;
             line-height: 1.5;
             word-wrap: break-word;
+            background-clip: padding-box;
         }
         
         /* Column Widths */
@@ -80,6 +95,7 @@
         col:nth-child(10) { width: 150px; } /* Marija */
 
 
+        /* STICKY HEADER STYLES */
         th {
             background-color: var(--header-bg);
             color: var(--header-text);
@@ -87,47 +103,63 @@
             white-space: nowrap;
             position: sticky;
             top: 0;
-            z-index: 10;
+            z-index: 10; /* Sits above standard content */
+            border-bottom: 2px solid #1a252f;
         }
 
         /* Zebra striping */
-        tr:nth-child(even) {
+        tr:nth-child(even) td {
             background-color: var(--row-odd);
         }
 
-        tr:nth-child(odd) {
+        tr:nth-child(odd) td {
             background-color: var(--row-even);
         }
 
-        tr:hover {
+        tr:hover td {
             background-color: #e2e8f0;
         }
 
-        /* Column specific styling for visual separation */
-        td:nth-child(1) { /* Date */
+        /* STICKY FIRST COLUMN STYLES */
+        td:nth-child(1) { /* Date Column */
             font-weight: bold;
             color: #475569;
-            white-space: nowrap;
-            background-color: #fff;
+            white-space: normal; /* Changed from nowrap to normal to allow wrapping */
             position: sticky;
             left: 0;
-            z-index: 5;
+            z-index: 5; /* Above normal cells, below header */
             border-right: 2px solid var(--border-color);
             box-shadow: 2px 0 5px rgba(0,0,0,0.05);
         }
+
+        /* THE MAGIC CORNER: 
+           The top-left cell needs to stick to TOP and LEFT.
+           It gets the highest Z-index to float over everything.
+        */
+        th:first-child {
+            position: sticky;
+            top: 0;
+            left: 0;
+            z-index: 20;
+            border-right: 2px solid #1a252f;
+        }
         
+        /* Ensure zebra striping works on the sticky column */
         tr:nth-child(even) td:nth-child(1) {
             background-color: var(--row-odd);
+        }
+        tr:nth-child(odd) td:nth-child(1) {
+            background-color: #fff;
         }
 
         /* Specific character highlighting */
         td:nth-child(2) { /* Veronika */
-            background-color: rgba(232, 244, 253, 0.3);
+            background-color: rgba(232, 244, 253, 0.3) !important; /* Force over zebra */
             font-weight: 500;
         }
         
         td:nth-child(3) { /* Eduard */
-            background-color: rgba(253, 242, 233, 0.3);
+            background-color: rgba(253, 242, 233, 0.3) !important;
         }
 
         .year-marker {
@@ -159,7 +191,7 @@
 
     <div class="container">
         <div class="header">
-            <h1>Story Timeline</h1>
+            <h1>Story Timeline Mapping</h1>
         </div>
         <div class="table-wrapper">
             <table border=1>
@@ -237,8 +269,7 @@
                     </tr>
                     <tr>
                         <td>16 Apr 1998</td>
-                        <td>Escape from Villette</td>
-                        <td></td>
+                        <td colspan=2 class="year-marker">Escape from Villette</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -249,8 +280,7 @@
                     </tr>
                     <tr>
                         <td>15-16 May 1998</td>
-                        <td>Marriage</td>
-                        <td></td>
+                        <td colspan=2 class="year-marker">Marriage</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -261,8 +291,7 @@
                     </tr>
                     <tr>
                         <td></td>
-                        <td>Life with Eduard's parents in their house</td>
-                        <td></td>
+                        <td colspan=2 class="year-marker">Life with Eduard's parents in their house</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -285,8 +314,7 @@
                     </tr>
                     <tr>
                         <td>January</td>
-                        <td>Move to Switzerland</td>
-                        <td></td>
+                        <td colspan=2 class="year-marker">Move to Switzerland</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -297,8 +325,7 @@
                     </tr>
                     <tr>
                         <td></td>
-                        <td>(Eduard's paintings are selling there) His parents pulled their strings</td>
-                        <td></td>
+                        <td colspan=2 class="year-marker">(Eduard's paintings are selling there) His parents pulled their strings</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -322,8 +349,8 @@
                     <tr>
                         <td>November</td>
                         <td>leaving for India</td>
-                        <td>leaving for India</td>
                         <td></td>
+                        <td>leaving for India</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -350,9 +377,7 @@
                     </tr>
                     <tr>
                         <td>March</td>
-                        <td></td>
-                        <td>Move to the UK</td>
-                        <td></td>
+                        <td colspan=3 class="year-marker">Move to the UK</td>
                         <td></td>
                         <td></td>
                         <td></td>
@@ -543,15 +568,7 @@
                     </tr>
                     <tr>
                         <td>2020</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>Pandemics</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td colspan=9 class="year-marker">Pandemics</td>
                     </tr>
                     <tr>
                         <td>20 February</td>
@@ -590,7 +607,7 @@
                         <td></td>
                     </tr>
                     <tr>
-                        <td>5 August</td>
+                        <td>6 August</td>
                         <td></td>
                         <td></td>
                         <td></td>
