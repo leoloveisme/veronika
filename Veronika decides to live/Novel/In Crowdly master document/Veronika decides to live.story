@@ -186,7 +186,67 @@
 
 [chapter_title left bold]Preparing for India[/chapter_title]
 
-[paragraph left]to display struggle of getting visa Embassy in Vienna Getting ALL documents Getting there INT - Indian Embassy / Consulate VIENNA - DAY (Interview) EMBASSY / CONSULATE CLERK Why do you want 6 months visa? VERONIKA You have a beautiful country (Moving around the city - sightseeing; stopping at a cafe or restaurant to breastfeed the boy and eat) (Return into the hotel at dark) INT - Hotel room \- NIGHT (Veronika breastfeeds the boy and both fall asleep with the baby still sucking on the breast) FADE OUT NEXT DAY - SLOW FADE IN (to still sleeping Veronika and boy; they gradually wake up; Veronika breastfeeds the boy) INT - Breakfast room - MORNING (friendly chitchat with some breakfast table neighbours) INT - Indian consulate - DAY (Getting the passport back with the issued visa) (Veronika walks out of the building, while holding the passport in her hand. Veronika stops, opens it to check the accuracy) CAMERA SHOT INTO THE PASSPORT OPENED DISPLAYING INDIAN VISA // I'm still not sure if I should include it into the book or not EXT - Outside of Embassy - DAY VERONIKA (angrily) Fuck! (going back to the gates) There is a mistake. It's not my family name. EMBASSY GUARD Ma..am, you need to come tomorrow again. Do we want to go the path of the visa issued with an error, you have to come tomorrow; strong emotional reaction of Veronika, time needed to correct the visa, another night in hotel, etc ??? OC What doesn't kill us, makes us stronger... BACK in Bern INT - Bedroom - NIGHT After she has packed everything and put boy to bed, she set up the baby phone and went to / came into Eduard's studio.... She knew that she has got at least 2 - 3 hours before she would need to feed the boy... VO (Veronika) Normal women, who breastfeed usually lose their libido during the breastfeeding time - not me though, my libido has actually become amplified (parting sex (which was initiated by Veronika) and which will conceive their daughter) <- this will be deleted later from the book / script INT - EDUARD'S STUDIO ROOM - NIGHT Veronika enters the studio with a thick wool blanket over her shoulder Kisses Eduard Steps away and spreads out the blanket on the floor while Eduard amused and in bewilderment watches what Veronika is doing She half lies down onto the blanket and waves with the hand to Eduard to come (come, come) The whole day she was preparing herself for this \- she rubbed herself against him like a horny cat in May - in the kitchen, in his studio - when she came to call him for lunch and dinner to his bewilderment keeping him thinking what is actually going on today :) When he came to the blanket and copied her pose she pressed him onto his shoulders, him ending up lying on his back and ... she kissed and rode him, she rode and kissed him very well that night. In the morning Eduard drives them to the airport. They kiss and she waves goodbye, after having entered the gate. [/paragraph]
+[paragraph left]to display struggle of getting visa Embassy in Vienna Getting ALL documents Getting there [/paragraph]
+
+[paragraph left]INT - Indian Embassy / Consulate VIENNA - DAY [/paragraph]
+
+[paragraph left](Interview) [/paragraph]
+
+[paragraph left]EMBASSY / CONSULATE CLERK [/paragraph]
+
+[paragraph left]Why do you want 6 months visa? [/paragraph]
+
+[paragraph left]VERONIKA You have a beautiful country [/paragraph]
+
+[paragraph left]EXT - Vienna - DAY[/paragraph]
+
+[paragraph left](Moving around the city - sightseeing; stopping at a cafe or restaurant to breastfeed the boy and eat) (Return into the hotel at dark) [/paragraph]
+
+[paragraph left]INT - Hotel room \- NIGHT [/paragraph]
+
+[paragraph left](Veronika breastfeeds the boy and both fall asleep with the baby still sucking on the breast) [/paragraph]
+
+[paragraph left]FADE OUT [/paragraph]
+
+[paragraph left]NEXT DAY - SLOW FADE IN [/paragraph]
+
+[paragraph left](to still sleeping Veronika and boy; they gradually wake up; Veronika breastfeeds the boy) [/paragraph]
+
+[paragraph left]INT - Breakfast room - MORNING [/paragraph]
+
+[paragraph left](friendly chitchat with some breakfast table neighbours) [/paragraph]
+
+[paragraph left]INT - Indian consulate - DAY [/paragraph]
+
+[paragraph left](Getting the passport back with the issued visa) [/paragraph]
+
+[paragraph left](Veronika walks out of the building, while holding the passport in her hand. Veronika stops, opens it to check the accuracy) [/paragraph]
+
+[paragraph left]CAMERA SHOT INTO THE PASSPORT OPENED DISPLAYING INDIAN VISA [/paragraph]
+
+[paragraph left]EXT - Outside of Embassy - DAY VERONIKA (angrily) Fuck! [/paragraph]
+
+[paragraph left](going back to the gates) [/paragraph]
+
+[paragraph left]There is a mistake. It's not my family name. [/paragraph]
+
+[paragraph left]EMBASSY GUARD [/paragraph]
+
+[paragraph left]Ma..am, you need to come tomorrow again. Do we want to go the path of the visa issued with an error, you have to come tomorrow; strong emotional reaction of Veronika, time needed to correct the visa, another night in hotel, etc ??? OC What doesn't kill us, makes us stronger... [/paragraph]
+
+[paragraph left]BACK in Bern [/paragraph]
+
+[paragraph left]INT - Bedroom - NIGHT [/paragraph]
+
+[paragraph left]After she has packed everything and put boy to bed, she set up the baby phone and went to / came into Eduard's studio.... She knew that she has got at least 2 - 3 hours before she would need to feed the boy... [/paragraph]
+
+[paragraph left italic]VO (Veronika) [/paragraph]
+
+[paragraph left]Normal women, who breastfeed usually lose their libido during the breastfeeding time - not me though, my libido has actually become amplified (parting sex (which was initiated by Veronika) and which will conceive their daughter) <- this will be deleted later from the book / script [/paragraph]
+
+[paragraph left]INT - EDUARD'S STUDIO ROOM - NIGHT [/paragraph]
+
+[paragraph left]Veronika enters the studio with a thick wool blanket over her shoulder Kisses Eduard Steps away and spreads out the blanket on the floor while Eduard amused and in bewilderment watches what Veronika is doing She half lies down onto the blanket and waves with the hand to Eduard to come (come, come) The whole day she was preparing herself for this \- she rubbed herself against him like a horny cat in May - in the kitchen, in his studio - when she came to call him for lunch and dinner to his bewilderment keeping him thinking what is actually going on today :) When he came to the blanket and copied her pose she pressed him onto his shoulders, him ending up lying on his back and ... she kissed and rode him, she rode and kissed him very well that night. In the morning Eduard drives them to the airport. They kiss and she waves goodbye, after having entered the gate. [/paragraph]
 
 [paragraph left bold]TL;DR / Summary[/paragraph]
 
@@ -194,11 +254,29 @@
 
 [chapter_title left bold]India[/chapter_title]
 
-[paragraph left]point of entry - New Delhi, November 1999 DATE / PLACE DISPLAY ON SCR. November 1999, New Delhi New Delhi North India Agra Lucknow Mumbai Chennai Puducherry Varkala [/paragraph]
+[paragraph left]point of entry - New Delhi, November 1999 [/paragraph]
 
-[paragraph left]When I was a child I was drowning once and even though I was rescued timely - and later into the years I learned how to swim - respect for water remained, that why when an old Gypsy woman told her once that I will die of drowning it even emphasized the cocktail of fear and respect for water together. These words of this old Gypsy woman, you can say, remained stuck with her, and became deeply ingrained into her. I always was and is very cautions when entering water and when I was in water. That why I was not very thrilled about when I was invited to drive or go swimming, especially in somewhat dangerous unsupervised waters like sea or even more cautions when it was about an ocean, like it was here in India. [/paragraph]
+[paragraph left]DATE / PLACE DISPLAY ON SCR. November 1999, New Delhi [/paragraph]
+
+[paragraph left]New Delhi [/paragraph]
+
+[paragraph left]North India [/paragraph]
+
+[paragraph left]Agra [/paragraph]
+
+[paragraph left]Lucknow [/paragraph]
+
+[paragraph left]Mumbai [/paragraph]
+
+[paragraph left]Chennai [/paragraph]
+
+[paragraph left]Puducherry [/paragraph]
+
+[paragraph left]Varkala [/paragraph]
 
 [paragraph left bold]Varkala [/paragraph]
+
+[paragraph left]When I was a child I was drowning once and even though I was rescued timely - and later into the years I learned how to swim - respect for water remained, that why when an old Gypsy woman told her once that I will die of drowning it even emphasized the cocktail of fear and respect for water together. These words of this old Gypsy woman, you can say, remained stuck with her, and became deeply ingrained into her. I always was and is very cautions when entering water and when I was in water. That why I was not very thrilled about when I was invited to drive or go swimming, especially in somewhat dangerous unsupervised waters like sea or even more cautions when it was about an ocean, like it was here in India. [/paragraph]
 
 [paragraph left]some persistent interest from a male over several days He was very well behaved and extremely polite ALL the fucking time and this appalled me and on the other hand made him extremely attractive for me. When I was returning from the yoga session for mothers - there were all kind of women there: Russian, Indian, Australian and me; I was not in my best shape and yet he has overshowered me with compliments for how beautiful I am and how great I look. [/paragraph]
 
@@ -410,15 +488,17 @@
 
 [chapter_title left bold]What is it ALL for?[/chapter_title]
 
-[paragraph left]Life was just going full it's typical yearly events and some other less predictable stuffs [/paragraph]
+[paragraph left]Life was just going full with all it's typical yearly events and some other less predictable stuffs [/paragraph]
 
 [paragraph left]My children ended up seeing me more on the TV screen than at home[/paragraph]
+
+[paragraph left]Veronika is diagnosed with cancer [/paragraph]
 
 [paragraph left bold]TL;DR / Summmary [/paragraph]
 
 [paragraph left]Veronika is diagnosed with cancer [/paragraph]
 
-[paragraph left]She goes to Thailand and some other countries of South-East Asia and confronts her fears [/paragraph]
+[paragraph left]She decides to go to Thailand and maybe some other countries of South-East Asia to decide what to do next with her life[/paragraph]
 
 [chapter_title left bold]Getting friends with cold[/chapter_title]
 
@@ -478,23 +558,115 @@
 
 [paragraph left](Decision to “become friends with cold” despite tropical latitude — internal paradox established.) [/paragraph]
 
-[paragraph left]CONT'D (work) Laos Cambodia Malaysia Singapore Vietnam Bangkok ## Water North Thailand (work) It supposed to be warm in tropical countries – however being here in December in the North of Thailand has brought the memories of North India. If you cannot beat them, join them or in my case it was if you cannot beat it, get accustomed to it, make yourself friends with it, and this is exactly where and how my journey into making friend with cold has started. Ironically in a very warm tropical country. My whole life is an absolute irony of my choices, of me making those choices and living with them. EXT - North Thailand - NIGHT VO (Veronika) It supposed to be warm in tropical countries – however being here in December in the North of Thailand has brought the memories of North India. EPISODE EXT - North India - NIGHT (flashback to the time when Veronika was in the North India) (Veronika is having warm clothes in the mountains of North India) CONT'D VO (Veronika) It's fucking great that we left for India in November, when it was already pretty cold in Slovenia, otherwise we would be freezing our bones here. EXT - North Thailand - NIGHT CONT'D VO (Veronika) Somehow I didn't know that it would be the same in Thailand.(If you cannot beat them, join them or in my case it was if you cannot beat it, get accustomed to it, make yourself friends with it, and this is exactly where and how my journey into making friend with cold has started. Ironically in a very warm tropical country.)It's good that we flew here in December and had our warm clothes with us. CONT'D VO (Veronika) My whole life is an absolute irony of my choices, of me making those choices and living with them. EXT - PATH UP THE MOUNTAIN - MORNING (Veronika went for a run and a swim in a cold-ish mountain lake overcoming fear of water) FLASHBACK TO CHILDHOOD EXT - LAKE - DAY (little Veronika is drowning in a lake) (when she was a child and nearly drowned and was saved by .... whom?) CONT'D EXT - PATH TO THE MOUNTAIN LAKE - MORNING (Veronika runs into the water and dives) VO (Veronika) Well, that didn't kill me. (as she submerges from the water) (Decision to “become friends with cold” despite tropical latitude — internal paradox established.) CONT'D (work) Laos Cambodia Malaysia Singapore Vietnam [/paragraph]
+[paragraph left]CONT'D (work) Laos Cambodia Malaysia Singapore Vietnam Bangkok [/paragraph]
+
+[paragraph left]North Thailand (work) It supposed to be warm in tropical countries – however being here in December in the North of Thailand has brought the memories of North India. If you cannot beat them, join them or in my case it was if you cannot beat it, get accustomed to it, make yourself friends with it, and this is exactly where and how my journey into making friend with cold has started. Ironically in a very warm tropical country. My whole life is an absolute irony of my choices, of me making those choices and living with them. [/paragraph]
+
+[paragraph left]EXT - North Thailand - NIGHT [/paragraph]
+
+[paragraph left italic]VO (Veronika) [/paragraph]
+
+[paragraph left]It supposed to be warm in tropical countries – however being here in December in the North of Thailand has brought the memories of North India. [/paragraph]
+
+[paragraph left]EPISODE [/paragraph]
+
+[paragraph left]EXT - North India - NIGHT [/paragraph]
+
+[paragraph left](flashback to the time when Veronika was in the North India) [/paragraph]
+
+[paragraph left](Veronika is having warm clothes in the mountains of North India) [/paragraph]
+
+[paragraph left]CONT'D VO (Veronika) [/paragraph]
+
+[paragraph left]It's fucking great that we left for India in November, when it was already pretty cold in Slovenia, otherwise we would be freezing our bones here. [/paragraph]
+
+[paragraph left]EXT - North Thailand - NIGHT [/paragraph]
+
+[paragraph left]CONT'D VO (Veronika) [/paragraph]
+
+[paragraph left]Somehow I didn't know that it would be the same in Thailand.(If you cannot beat them, join them or in my case it was if you cannot beat it, get accustomed to it, make yourself friends with it, and this is exactly where and how my journey into making friend with cold has started. Ironically in a very warm tropical country.)It's good that we flew here in December and had our warm clothes with us. [/paragraph]
+
+[paragraph left]CONT'D VO (Veronika) [/paragraph]
+
+[paragraph left]My whole life is an absolute irony of my choices, of me making those choices and living with them. [/paragraph]
+
+[paragraph left]EXT - PATH UP THE MOUNTAIN - MORNING [/paragraph]
+
+[paragraph left](Veronika went for a run and a swim in a cold-ish mountain lake overcoming fear of water) [/paragraph]
+
+[paragraph left]FLASHBACK TO CHILDHOOD EXT - LAKE - DAY [/paragraph]
+
+[paragraph left](little Veronika is drowning in a lake) [/paragraph]
+
+[paragraph left](when she was a child and nearly drowned and was saved by .... whom?) [/paragraph]
+
+[paragraph left]CONT'D EXT - PATH TO THE MOUNTAIN LAKE - MORNING [/paragraph]
+
+[paragraph left](Veronika runs into the water and dives) [/paragraph]
+
+[paragraph left italic]VO (Veronika) [/paragraph]
+
+[paragraph left]Well, that didn't kill me. (as she submerges from the water) [/paragraph]
+
+[paragraph left](Decision to “become friends with cold” despite tropical latitude — internal paradox established.) [/paragraph]
+
+[paragraph left]CONT'D [/paragraph]
+
+[paragraph left]I'm already here why don't you send the rest of the team and we make South-East reportages[/paragraph]
+
+[paragraph left](work) [/paragraph]
+
+[paragraph left]Laos [/paragraph]
+
+[paragraph left]Cambodia [/paragraph]
+
+[paragraph left]Malaysia [/paragraph]
+
+[paragraph left]Singapore [/paragraph]
+
+[paragraph left]Vietnam [/paragraph]
+
+[paragraph left]Bangkok[/paragraph]
 
 [paragraph left bold]TL;DR / Summary[/paragraph]
+
+[paragraph left]She goes to Thailand and some other countries of South-East Asia and confronts her fears[/paragraph]
 
 [paragraph left]Veronika starts taking cold showers regularly[/paragraph]
 
 [chapter_title left bold]One, two, three - swimming we go[/chapter_title]
 
-[paragraph left]Ice swimming. (work) Training with Wim Hoff (work) Swimming with other ice swimmers She met and swam with Iceman – Wim Hof; first, with some other participants of one of the courses he gives Women of beauty like hers don’t go unnoticed She was preparing herself (unconsciously) for swims with the ice swimmers later she swam with Stig Severinsen and she also swam with lesser known female ice swimmers like:Johanna NordbladElina Mäkinen Cold-water/ice swimming is literally about confronting death—numbing pain, controlled breath, pushing the body to the brink—and then emerging alive, exhilarated, reborn. It's the perfect metaphor for post-asylum Veronika: someone who has already "died" once and now actively seeks out near-death experiences not to end life, but to feel alive as intensely as possible. [/paragraph]
+[paragraph left]Ice swimming. [/paragraph]
+
+[paragraph left](work) [/paragraph]
+
+[paragraph left]Training with Wim Hoff [/paragraph]
+
+[paragraph left](work) [/paragraph]
+
+[paragraph left]Swimming with other ice swimmers [/paragraph]
+
+[paragraph left]She met and swam with Iceman – Wim Hof; first, with some other participants of one of the courses he gives [/paragraph]
+
+[paragraph left]Women of beauty like hers don’t go unnoticed [/paragraph]
+
+[paragraph left]She was preparing herself (unconsciously) for swims with the ice swimmers [/paragraph]
+
+[paragraph left]later she swam with Stig Severinsen and she also swam with lesser known female ice swimmers like:Johanna NordbladElina Mäkinen Cold-water/ice swimming is literally about confronting death—numbing pain, controlled breath, pushing the body to the brink—and then emerging alive, exhilarated, reborn. It's the perfect metaphor for post-asylum Veronika: someone who has already "died" once and now actively seeks out near-death experiences not to end life, but to feel alive as intensely as possible. [/paragraph]
 
 [paragraph left bold]TL;DR / Summary[/paragraph]
 
-[paragraph left]Veronika makes a training with Ice man - Win Hoff and swims with other ice swimmers[/paragraph]
+[paragraph left]Veronika makes a training with Ice man - Win Hoff [/paragraph]
+
+[paragraph left]Later she swims with other ice swimmers, as well[/paragraph]
 
 [chapter_title left bold]Madness or bravery[/chapter_title]
 
-[paragraph left]Iceland July 2010 swimming in ice-cold waters alone swimming in ice-cold waters alone Now when I already swam with some of the world most renowned ice swimmers I also wanted to try the cold waters of Iceland. Is it a sign of bravery or a sigh of an absolute and sheer madness to wager into such a swim absolutely alone?It is way easier to swim with the others, however to do it completely alone… One needs to confront one’s own fears and either overcome them or succumb and surrender to them and this is exactly what I was doing when the thoughts of fear came to my headFuck it let’s do it, nothing is under control – is the motto which I welcomed into my life and was using when faced by situations of uncertainty, fear and even danger There are calculable risks and there is sheer madness and mad braveryWhat swimming alone is, only the time will show. Ask me later and I’ll tell you once I did / have done it. The title "Iceland" works well for now: it’s simple, geographic, and carries that stark, cold resonance. If you want alternatives later, something like "Alone in the North Atlantic", "The Solitary Plunge", or "Madness or Bravery" (echoing the question you pose) could add a more poetic or philosophical layer. But honestly, the plain "Iceland" has a Coelho-esque minimalism that fits the spirit of the original novel. [/paragraph]
+[paragraph left]Iceland July 2010 [/paragraph]
+
+[paragraph left]Swimming in ice-cold waters alone [/paragraph]
+
+[paragraph left]Now when I already swam with some of the world most renowned ice swimmers I also wanted to try the cold waters of Iceland. Is it a sign of bravery or a sigh of an absolute and sheer madness to wager into such a swim absolutely alone?It is way easier to swim with the others, however to do it completely alone… One needs to confront one’s own fears and either overcome them or succumb and surrender to them and this is exactly what I was doing when the thoughts of fear came to my headFuck it let’s do it, nothing is under control – is the motto which I welcomed into my life and was using when faced by situations of uncertainty, fear and even danger There are calculable risks and there is sheer madness and mad braveryWhat swimming alone is, only the time will show. Ask me later and I’ll tell you once I did / have done it. The title "Iceland" works well for now: it’s simple, geographic, and carries that stark, cold resonance. If you want alternatives later, something like "Alone in the North Atlantic", "The Solitary Plunge", or "Madness or Bravery" (echoing the question you pose) could add a more poetic or philosophical layer. But honestly, the plain "Iceland" has a Coelho-esque minimalism that fits the spirit of the original novel. [/paragraph]
 
 [paragraph left bold]TL;DR / Summary[/paragraph]
 
@@ -502,7 +674,41 @@
 
 [chapter_title left bold]Wild wild everything[/chapter_title]
 
-[paragraph left](work) Entering US in Alaska and going down the south of the continent FLY-INS (of the city names with Veronika staying in front of the camera at different locations and reporting from the places) Alaska Washington (state) - Seattle Oregon - Portland California (SF & LA) Las Vegas Chicago Boston New York Washington (DC) Florida Texas what else to show here? Grand Canyon? Children see her mother more on TV than at home in person and from the south of USA she went into Mexico. [/paragraph]
+[paragraph left](work) Entering US in Alaska and going down the south of the continent [/paragraph]
+
+[paragraph left]FLY-INS [/paragraph]
+
+[paragraph left](of the city names with Veronika staying in front of the camera at different locations and reporting from the places) [/paragraph]
+
+[paragraph left]Alaska [/paragraph]
+
+[paragraph left]Washington (state) [/paragraph]
+
+[paragraph left]Seattle [/paragraph]
+
+[paragraph left]Oregon Portland [/paragraph]
+
+[paragraph left]California (SF & LA) [/paragraph]
+
+[paragraph left]Las Vegas [/paragraph]
+
+[paragraph left]Chicago [/paragraph]
+
+[paragraph left]Boston [/paragraph]
+
+[paragraph left]New York [/paragraph]
+
+[paragraph left]Washington (DC) [/paragraph]
+
+[paragraph left]Florida [/paragraph]
+
+[paragraph left]Texas [/paragraph]
+
+[paragraph left]What else to show here? Grand Canyon? [/paragraph]
+
+[paragraph left]Children see her mother more on TV than at home in person[/paragraph]
+
+[paragraph left]From the south of USA she went into Mexico. [/paragraph]
 
 [paragraph left bold]TL;DR / Summary[/paragraph]
 
@@ -510,7 +716,15 @@
 
 [chapter_title left bold]Latin America[/chapter_title]
 
-[paragraph left](off work) Mexico Auyaska experience Money open doors and because some of the Eastern Europeans are not easy to cheet, money usually leads us to the desired outcomes, not always but usually. Yes, they are some sophisticated cheaters and sometimes, even we East-Europeans fall for scams. Thanks to my journalist work and to my documentaries some people would recognise me on the streets, that's why it was relatively easy to find the right people, who would lead me to the people who could offer me the experience from the very first hands Sex during Auyaska (who with - who is the lucky man; was he also under the influence of the substance - what is the story here? who? how? why?) [/paragraph]
+[paragraph left](off work) Mexico [/paragraph]
+
+[paragraph left]Auyaska experience [/paragraph]
+
+[paragraph left]Money open doors and because some of the Eastern Europeans are not easy to cheet, money usually leads us to the desired outcomes, not always but usually. Yes, they are some sophisticated cheaters and sometimes, even we East-Europeans fall for scams. Thanks to my journalist work and to my documentaries some people would recognise me on the streets, that's why it was relatively easy to find the right people, who would lead me to the people who could offer me the experience from the very first hands [/paragraph]
+
+[paragraph left]Sex during Auyaska [/paragraph]
+
+[paragraph left](who with - who is the lucky man; was he also under the influence of the substance - what is the story here? who? how? why?) [/paragraph]
 
 [paragraph left bold]TL;DR / Summary[/paragraph]
 
