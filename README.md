@@ -8,7 +8,7 @@ death by a drone bombing attempting to save / saving local children in Gaza /
 Ukraine.
 
 At the current stage I decided to go parallel with Libre Office and Crowdly app
-for both novel and screenplay because it enables to create a master document. 
+for both novel and screenplay because they enable to create a master documents. 
 [Crowdly](https://github.com/leoloveisme/crowdly)'s master document
 functionality is maturing, and currently it is mature enough to be used for
 both novels and screenplays. We're actively working on improving formatting in
@@ -19,6 +19,7 @@ using Libre Office
 
 "chapters" are sub-directories of the novel which contain, well, the chapters
 of the novel
+and "scenes" - well are for scenes
 
 Currently I'm looking for a female co-author for the book: both novel and
 screenplay, ideally Slovenian (30 - 50 y.o.)
