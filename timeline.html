@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Story Timeline</title>
+    <style>
+        :root {
+            --primary-bg: #f8f9fa;
+            --header-bg: #2c3e50;
+            --header-text: #ffffff;
+            --row-even: #ffffff;
+            --row-odd: #f1f5f9;
+            --border-color: #e2e8f0;
+            --highlight-veronika: #e8f4fd;
+            --highlight-eduard: #fdf2e9;
+            --text-color: #334155;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: var(--primary-bg);
+            color: var(--text-color);
+        }
+
+        .container {
+            max-width: 100%;
+            margin: 0 auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            overflow: hidden;
+        }
+
+        .header {
+            padding: 20px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        h1 {
+            margin: 0;
+            color: var(--header-bg);
+            font-size: 1.5rem;
+        }
+
+        .table-wrapper {
+            overflow-x: auto;
+            width: 100%;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            min-width: 1400px;
+            font-size: 0.9rem;
+            table-layout: fixed; 
+        }
+
+        th, td {
+            padding: 12px 16px;
+            text-align: left;
+            border-bottom: 1px solid var(--border-color);
+            vertical-align: top;
+            line-height: 1.5;
+            word-wrap: break-word;
+        }
+        
+        /* Column Widths */
+        col:nth-child(1) { width: 120px; } /* Date */
+        col:nth-child(2) { width: 180px; } /* Veronika */
+        col:nth-child(3) { width: 180px; } /* Eduard */
+        col:nth-child(4) { width: 100px; } /* Luka */
+        col:nth-child(5) { width: 100px; } /* Zala */
+        col:nth-child(6) { width: 100px; } /* Matej */
+        col:nth-child(7) { width: 100px; } /* Ana */
+        col:nth-child(8) { width: 100px; } /* Dr. Igor */
+        col:nth-child(9) { width: 180px; } /* Veronika II */
+        col:nth-child(10) { width: 150px; } /* Marija */
+
+
+        th {
+            background-color: var(--header-bg);
+            color: var(--header-text);
+            font-weight: 600;
+            white-space: nowrap;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        /* Zebra striping */
+        tr:nth-child(even) {
+            background-color: var(--row-odd);
+        }
+
+        tr:nth-child(odd) {
+            background-color: var(--row-even);
+        }
+
+        tr:hover {
+            background-color: #e2e8f0;
+        }
+
+        /* Column specific styling for visual separation */
+        td:nth-child(1) { /* Date */
+            font-weight: bold;
+            color: #475569;
+            white-space: nowrap;
+            background-color: #fff;
+            position: sticky;
+            left: 0;
+            z-index: 5;
+            border-right: 2px solid var(--border-color);
+            box-shadow: 2px 0 5px rgba(0,0,0,0.05);
+        }
+        
+        tr:nth-child(even) td:nth-child(1) {
+            background-color: var(--row-odd);
+        }
+
+        /* Specific character highlighting */
+        td:nth-child(2) { /* Veronika */
+            background-color: rgba(232, 244, 253, 0.3);
+            font-weight: 500;
+        }
+        
+        td:nth-child(3) { /* Eduard */
+            background-color: rgba(253, 242, 233, 0.3);
+        }
+
+        .year-marker {
+            background-color: #cbd5e1 !important;
+            font-weight: bold;
+            text-align: center;
+            color: #1e293b;
+            padding: 8px;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            
+            h1 {
+                font-size: 1.25rem;
+            }
+            
+            td, th {
+                padding: 8px 10px;
+                font-size: 0.85rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <h1>Story Timeline</h1>
+        </div>
+        <div class="table-wrapper">
+            <table border=1>
+                <colgroup>
+                    <col>
+                    <col>
+                    <col>
+                    <col>
+                    <col>
+                    <col>
+                    <col>
+                    <col>
+                    <col>
+                    <col>
+                </colgroup>
+                <thead>
+                    <tr>
+                        <th>Date / Year</th>
+                        <th>Veronika</th>
+                        <th>Eduard</th>
+                        <th>Luka</th>
+                        <th>Zala</th>
+                        <th>Matej</th>
+                        <th>Ana</th>
+                        <th>Dr. Igor</th>
+                        <th>Veronika II</th>
+                        <th>Marija</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- 1970s -->
+                    <tr class="year-row">
+                        <td colspan="10" class="year-marker">1970s</td>
+                    </tr>
+                    <tr>
+                        <td>20 Feb 1970</td>
+                        <td></td>
+                        <td>is born</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>7 Nov 1973</td>
+                        <td>is born</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+
+                    <!-- 1990s -->
+                    <tr class="year-row">
+                        <td colspan="10" class="year-marker">1998 - 1999</td>
+                    </tr>
+                    <tr>
+                        <td>1998</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>16 Apr 1998</td>
+                        <td>Escape from Villette</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>15-16 May 1998</td>
+                        <td>Marriage</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Life with Eduard's parents in their house</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>1999</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>January</td>
+                        <td>Move to Switzerland</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>(Eduard's paintings are selling there) His parents pulled their strings</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>10 Feb 1999 10:25</td>
+                        <td></td>
+                        <td></td>
+                        <td>is born</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>November</td>
+                        <td>leaving for India</td>
+                        <td>leaving for India</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+
+                    <!-- 2000s -->
+                    <tr class="year-row">
+                        <td colspan="10" class="year-marker">2000 - 2009</td>
+                    </tr>
+                     <tr>
+                        <td>2000</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>March</td>
+                        <td></td>
+                        <td>Move to the UK</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>5 Aug 2000 02:20</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>is born</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>2004</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>May</td>
+                        <td>Spain</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td colspan="10" class="year-marker">Slovenia joins EU</td>
+                    </tr>
+                    <tr>
+                        <td>2006</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>December</td>
+                        <td>North Thailand</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>2007</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>from January 2007 on</td>
+                        <td>cold showers</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>2008</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>January</td>
+                        <td>Training with Iceman - Wim Hoff</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+
+                    <!-- 2010s -->
+                    <tr class="year-row">
+                        <td colspan="10" class="year-marker">2010 - 2019</td>
+                    </tr>
+                    <tr>
+                        <td>2010</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>July</td>
+                        <td>Iceland</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>5 August</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>10. birthday</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>August</td>
+                        <td>USA</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>September</td>
+                        <td>Latin America</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+
+                    <!-- 2020s -->
+                    <tr class="year-row">
+                        <td colspan="10" class="year-marker">2020 - 2026</td>
+                    </tr>
+                    <tr>
+                        <td>2020</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>Pandemics</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>20 February</td>
+                        <td></td>
+                        <td>50. birthday</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>5 August</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>20. birthday</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>2021</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>5 August</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>Departure to Mexico</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>2022</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>June 2022</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>Entering Colombia</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>2023</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>6 February</td>
+                        <td>Turkey / Syria</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>7 November</td>
+                        <td>50. birthday</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>2025</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>January</td>
+                        <td>India again</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>May</td>
+                        <td>Viper bite, coma, transport from India to Slovenia</td>
+                        <td>returns to Slovenia</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>August</td>
+                        <td>Waking up from coma</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Documentary offer / Gaza decision</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>death</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Journey to Gaza death</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>2026 January</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>Jump out of window escaping abuse attempt</td>
+                        <td>Scheduled operation on her left shoulder</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>Hospital</td>
+                        <td>Hospital</td>
+                    </tr>
+
+                    <!-- Future -->
+                    <tr class="year-row">
+                        <td colspan="10" class="year-marker">Future (2040)</td>
+                    </tr>
+                    <tr>
+                        <td>2040</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>is in the mountains with her husband and two children</td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</body>
+</html>
