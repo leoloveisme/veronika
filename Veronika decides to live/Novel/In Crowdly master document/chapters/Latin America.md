@@ -11,4 +11,3 @@ the substance - what is the story here? who? how? why?)
 **TL;DR / Summary**
 
 Veronika gets her Auyaska experience in Latin Amerika
-

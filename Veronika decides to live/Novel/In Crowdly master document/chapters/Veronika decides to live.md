@@ -113,5 +113,7 @@ suicide, once she gets out of the hospital
 Marija older woman gives her two books to read
 
 Veronika II many years later is hiking with her husband and their children in
+the mountains overlooking ocean
+the mountains overlooking ocean
+the mountains overlooking ocean
 the mountains overlooking ocean 
-

@@ -250,5 +250,7 @@ Veronika and Matej are smuggled into Gaza.
 Veronika wakes up from coma
 Dr. Igor dies 
 She is offered to make a documentary about Gaza - she accepts
+Veronika and Matej go on a journey to get into Gaza and then they are smuggled into Gaza
+Veronika and Matej go on a journey to get into Gaza and then they are smuggled into Gaza
+Veronika and Matej go on a journey to get into Gaza and then they are smuggled into Gaza
 Veronika and Matej go on a journey to get into Gaza and then they are smuggled into Gaza 
-

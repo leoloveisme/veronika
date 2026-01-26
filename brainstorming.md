@@ -9,6 +9,8 @@ Sasnal’s personal life is deeply interwoven with his artistic practice, as he 
 
 ---
 
+Veronika prototypes
+
 Tanja Starič is a Slovenian journalist, presenter of the show Echoes on RTV Slovenia and editor. She was born on April 2, 1962 in Novi Mesto.
 
 Family: She is closely related to a family that has a strong connection to journalism. Her mother lives in a home for the elderly, where she visits at least once a week. Her partner, Miha, is also a journalist, so they understand professional stress and unpredictable schedules.
@@ -19,8 +21,17 @@ Starič also appears as a co-author of the podcast The Art of the Possible with 
 
 https://en.wikipedia.org/wiki/Kasia_Madera
 
+https://www.theguardian.com/profile/ana-schnabl
+
+https://en.wikipedia.org/wiki/Ana_Schnabl
+
+
+
 ---
 
+Shalom Harlow as Zala
+
+---
 
 Brexit occurred on 31 January 2020, when the United Kingdom officially left the European Union.  The withdrawal took effect at 11:00 PM GMT (midnight CET), marking the end of the UK's 47-year membership in the EU. This followed a referendum held on 23 June 2016, in which voters chose to leave the bloc by a margin of 51.9% to 48.1%.  The formal process began on 29 March 2017 when Prime Minister Theresa May triggered Article 50 of the Treaty on European Union. After multiple delays and political challenges, a withdrawal agreement was ratified by the UK Parliament, leading to the UK's departure. A transition period then began, ending on 31 December 2020, after which the UK fully exited the EU single market and customs union. 
 

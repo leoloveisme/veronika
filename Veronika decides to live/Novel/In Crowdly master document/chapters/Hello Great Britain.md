@@ -56,5 +56,7 @@ Veronika's writing career takes off
 
 Beginning of Veronika's TV career
 
+They (Veronika & Eduard) become VERY wealthy
+They (Veronika & Eduard) become VERY wealthy
+They (Veronika & Eduard) become VERY wealthy
 They (Veronika & Eduard) become VERY wealthy 
-

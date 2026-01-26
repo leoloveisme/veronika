@@ -22,4 +22,3 @@ away, not viper though, viper jumps towards person and attacks
 Veronika and her team travel in India making yet another documentary
 
 In Auroville Veronika gets bitten by a viper - poisonous snake
-

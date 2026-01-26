@@ -77,4 +77,3 @@ Eduard follows her later
 Almost one year later Zala goes to Colombia
 
 Luka gets a proper girlfriend
-

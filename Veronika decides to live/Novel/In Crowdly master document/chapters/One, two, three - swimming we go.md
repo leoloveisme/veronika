@@ -16,4 +16,3 @@ Cold-water/ice swimming is literally about confronting death—numbing pain, con
 
 **TL;DR / Summary**
 Veronika makes a training with Ice man - Win Hoff and swims with other ice swimmers
-

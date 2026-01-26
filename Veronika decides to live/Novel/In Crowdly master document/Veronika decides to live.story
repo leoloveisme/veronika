@@ -164,17 +164,33 @@
 
 [paragraph left]January 1999 Move to Switzerland, Bern [/paragraph]
 
+[paragraph left]In Bern there was pretty much NO ONE who knew our history that's making a new start in the new for us country was relatively easy for us. [/paragraph]
+
 [paragraph left](Eduard's paintings are suddenly starting to sell / selling great there) [/paragraph]
 
 [paragraph left]EXT - Panoramic aerial view of the houses - DAY [/paragraph]
 
 [paragraph left]It was a relatively small house with another small guest house, which Eduard seized for / claimed as his painting studio The main house was near the quiet road and the guest house was overlooking ever so slightly the Aare river [/paragraph]
 
+[paragraph left]We: Eduard and I were a great creative duo. Eduard was great at producing visual images and I was pretty good at putting these images into written words. [/paragraph]
+
+[paragraph left]Throughout our live we could receive similar thoughts almost simultaneously. [/paragraph]
+
+[paragraph left]We mostly acted very quickly once we came to an agreement[/paragraph]
+
 [paragraph left]INT - Hospital - ART. LIGHT [/paragraph]
 
 [paragraph left]10 February 1999 Birth of their boy - Luka [/paragraph]
 
 [paragraph left]And even though I was not underage when I gave birth to our first child, I still was very far from being perfect person and perfect mother. [/paragraph]
+
+[paragraph left]We: Eduard and I were a great creative duo. Eduard was great at producing visual images and I was pretty good at putting these images into written words. [/paragraph]
+
+[paragraph left]Throughout our live we could receive similar thoughts almost simultaneously. [/paragraph]
+
+[paragraph left]We mostly acted very quickly once we came to an agreement[/paragraph]
+
+[paragraph left]In Bern there was pretty much NO ONE who knew our history that's making a new start in the new for us country was relatively easy for us. [/paragraph]
 
 [paragraph left]Veronika's writing career takes off [/paragraph]
 
@@ -191,6 +207,12 @@
 [paragraph left]They (Veronika & Eduard) become VERY wealthy [/paragraph]
 
 [chapter_title left bold]Preparing for India[/chapter_title]
+
+[paragraph left]We were lucky with the weather in Vienna, during our visa trip. The weather was gray, however it didn't rain and it was not too cold either. [/paragraph]
+
+[paragraph left]I went for sightseeing and when it was time to feed Luka I would eat, too. [/paragraph]
+
+[paragraph left]Vienna is a beautiful city, with a lot of beautiful architecture and historic(al) places. [/paragraph]
 
 [paragraph left]to display struggle of getting visa Embassy in Vienna Getting ALL documents Getting there [/paragraph]
 
@@ -386,6 +408,38 @@
 
 [paragraph left]Switzerland and all it's rules are suffocating [/paragraph]
 
+[paragraph left]Since we moved to the UK - they repeatedly tried to call me Edward until we agreed on shorter version of my name - Ed.[/paragraph]
+
+[paragraph left]And so I became Ed for our new friends and new business partners[/paragraph]
+
+[paragraph left]We were lucky enough to find another young family, who we rented our house in Bern, too. [/paragraph]
+
+[paragraph left]Later we have sold it. (to them?)[/paragraph]
+
+[paragraph left]We started this theme with Luka and went on doing it in the UK as well[/paragraph]
+
+[paragraph left]When in Slovenia we were describing the ocurences to us as a family and we kept doing exactly the same in the UK. Once we moved into the UK, the format of the stories became appealing to all kind of international audiences, especially because we were describing know to many, at least visually, places of interest such as: Big Ben, Westminster palace, etc [/paragraph]
+
+[paragraph left]besides that I (Veronika) could monetize my blog which gradually was transforming into my personal brand and Eduard's kept selling his paintings and they were exhibited in many countries, that why Eduard was travelling quite a lot during this time[/paragraph]
+
+[paragraph left](I'll out travel him later, but for now he was travelling more than I, actually as a matter of fact I wasn't travelling like at all during this time. My travelling would start with my travelling Spain adventure)[/paragraph]
+
+[paragraph left]The books were adressed to children in the first line and they sold quite alright internationally due to the described above themes[/paragraph]
+
+[paragraph left]This series became so popular that it has contributed to yet another wave of expats to Spain from UK and Ireland, where this series was also broadcasted on their TV stations. [/paragraph]
+
+[paragraph left]One of the days I got a call from one of the major UK TV channels and to cut the story short -- soon I'd be starting to be achor for one of the(ir) programs. [/paragraph]
+
+[paragraph left]My idea to report news, mixed with my personal quests, which I laid out in a post I wrote, was very well received by the public - seeing beautiful woman, do crazy things, is quite entertaining. [/paragraph]
+
+[paragraph left]***[/paragraph]
+
+[paragraph left]We: Eduard and I were a great creative duo. Eduard was great at producing visual images and I was pretty good at putting these images into written words. [/paragraph]
+
+[paragraph left]Throughout our live we could receive similar thoughts almost simultaneously. [/paragraph]
+
+[paragraph left]We mostly acted very quickly once we came to an agreement[/paragraph]
+
 [paragraph left italic]VO (Veronika)[/paragraph]
 
 [paragraph left]I don't know where this idea of a move to the UK came from, but we both almost in parallel decided, voiced and agreed on moving to the UK.[/paragraph]
@@ -420,7 +474,15 @@
 
 [paragraph left]Beginning of Veronika's TV career in the UK[/paragraph]
 
-[paragraph left]They (Veronika & Eduard) become VERY wealthy [/paragraph]
+[paragraph left]My (Eduard's) paintings were exhibited and selling in all major metropoles: [/paragraph]
+
+[paragraph left]London, Berlin, New York[/paragraph]
+
+[paragraph left]and even Tokyo[/paragraph]
+
+[paragraph left]I also would make some occasional exhibitions in Bern, Zurich and Geneve, because the gallery owners would ask me for that and result of that was me keeping good connections with them[/paragraph]
+
+[paragraph left]Veronika & Eduard become VERY wealthy [/paragraph]
 
 [paragraph left]There was so much change in the world and me becoming pregnant with our first child also somewhat contributed to that too, then the second child was born as well and somehow after all these sleepless days and nights and you experiencing the reality as if in the haze also contributed to The fall of the Berlin wall opened and the collapse of the Soviet Union has started new era of life. Shortly after Slovenia became it’s own country and became independent. Due to my looks (both males and females found me extremely attractive) and hopefuly to my brains it was quite easy to become an new anchor on the Slovenian TV and later on one of the major UK TV channels and I was quite a decent writer, too. Writing fell easy for me and I felt that I was good at words; both written and spoken. Strangelly enough words appeared in my head as by themselves flying in quickly like commets with their cosmic speed. When you give birth to a child or more than one you're kind of expected to know everything. At least this is the expectation the world places on you. And it is quite dishearthening to know that this expection / these expectations are far far away, thousands upon thousands miles away from the reality you live day after day after day. Just imagine the mountain Everest of expectations placed onto the fragile shoulders of underage mothers. Technically I wasn’t underage, however from the general ripeness I was also quite far. [/paragraph]
 
@@ -499,6 +561,14 @@
 [paragraph left]My children ended up seeing me more on the TV screen than at home[/paragraph]
 
 [paragraph left]Veronika is diagnosed with cancer [/paragraph]
+
+[paragraph left]Once in a while there comes the time when you stop and you ask yourself - What is it all for? All this travelling, all these documentaries you're making and then the apathy and despair creep in. With the power of your mind you keep pushing them away and the stronger you push them away the stronger they come back at you.[/paragraph]
+
+[paragraph left]Yoga and meditation have taught me how to control these situations and still there are the times when the power of will power becomes drined out of it's juice of it's energy and force and exactly then these ways of despair cover you completely - like ways in the oceans - the coveryou over your head, they sweep you of your feet, these waves go all over your body and it is very difficult to regain the control (over your head and over your body) Nothing seems to natter, nothing gives you joy and power to live. [/paragraph]
+
+[paragraph left]What pulls me out of this deep state and helps me getting back to my feet usually are the thoughts that I must have not yet fullfilled my life purpose, otherwise I would've been already taken long time ago. There is still something I have to do. If I'm still alive, then there is still something to do for me in this life. [/paragraph]
+
+[paragraph left]Since the incident with Vilette, I became very sceptical of "people in the white robes" and of people who practise traditional medicine, that's why when they told me that I have a cancerous tumor in my right breast - initially I was shoked and later when the initial shock subued I took it with a grain of salt and decided to take some time off - off work, off regular day to day life and exactly on this day I bought tickets to Thailand. [/paragraph]
 
 [paragraph left bold]TL;DR / Summmary [/paragraph]
 

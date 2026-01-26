@@ -9,4 +9,3 @@ went into Mexico.
 **TL;DR / Summary**
 
 Veronika's adventures in the US
-

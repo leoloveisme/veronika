@@ -31,4 +31,3 @@ later.
 **TL;DR / Summmary** 
 
 Slovenia joins EU
-

@@ -63,4 +63,3 @@ Veronika starts writing
 **TL;DR / Summary**
 
 Veronika and Eduard get married and move in with Eduard's parents
-

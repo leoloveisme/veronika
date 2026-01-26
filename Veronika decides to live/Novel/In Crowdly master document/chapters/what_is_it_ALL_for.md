@@ -1,8 +1,9 @@
-Some years of life after Spain
+2011 - 2020 
 
-Life was just going full it's typical yearly events and some other less predictable stuffs
+Move within UK near to the sea... (where to, exactly?) 
 
-**TL;DR / Summmary**
+WHAT IS IT ALL FOR? 
 
-Veronika is diagnosed with cancer 
-She goes to Thailand and some other countries of South-East Asia and confronts her fears 
+TL;DR / Summary tbd 
+
+12345678
