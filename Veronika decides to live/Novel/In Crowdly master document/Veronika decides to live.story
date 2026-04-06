@@ -12,7 +12,7 @@
 
 [paragraph left]Preparing for India [/paragraph]
 
-[paragraph left]India [/paragraph]
+[paragraph left]Surprise? Surprise![/paragraph]
 
 [paragraph left]- Fire [/paragraph]
 
@@ -28,7 +28,7 @@
 
 [paragraph left]- Water [/paragraph]
 
-[paragraph left]One, two, three … swimming we go [/paragraph]
+[paragraph left]One, two, three - swimming we go [/paragraph]
 
 [paragraph left]Madness or bravery [/paragraph]
 
@@ -464,6 +464,12 @@
 
 [paragraph left]Veronika's writing career takes off [/paragraph]
 
+[paragraph left]Quite early into my writing career somehow I understood that every writer has his / her own voice and I trusted my intuition when I was writing[/paragraph]
+
+[paragraph left]What's helped me was that I was writing, I was writing a lot and I was doing it consistently. As consistently as children and married life would allow that. [/paragraph]
+
+[paragraph left]And because we worked in team with Eduard on some of our projects together it was like having an accountability partner, undertsanding and yet someone you kind of account to. [/paragraph]
+
 [paragraph left]I was writing mainly for women, not exclusively, but primarily for women and I guess it is one of my female readres, who told her husband to get me to their TV station[/paragraph]
 
 [paragraph left](actually it was a homosexual male, who told his partner, howewer I'll get to know about that years later and maybe it was a wife of one of the execs as well, this however I don't know for sure.)[/paragraph]
@@ -534,13 +540,17 @@
 
 [paragraph left](Slovenia joined EU) [/paragraph]
 
+[paragraph left]I waved my team Goodbye and my journey into the unknown would start... [/paragraph]
+
 [paragraph left bold]TL;DR / Summary[/paragraph]
 
-[paragraph left]tbd[/paragraph]
+[paragraph left]Slovenia joins EU[/paragraph]
 
 [chapter_title left bold]The cage door is open at last[/chapter_title]
 
 [paragraph left]my soul can fly now. [/paragraph]
+
+[paragraph left]Spain (off work.)[/paragraph]
 
 [paragraph left]Since Slovenia joined the EU it became very easy to travel. In 2004 Slovenia joined the EU and the doors into the world were practically open for everyone. And it practically was the time for me to go to Spain, again, where I would ….[/paragraph]
 
@@ -550,7 +560,7 @@
 
 [paragraph left bold]TL;DR / Summmary [/paragraph]
 
-[paragraph left]Slovenia joins EU[/paragraph]
+[paragraph left]Slovenia joined EU and Slovenians can travel all over Europe, even though not that many Slovenians do[/paragraph]
 
 [paragraph left]Introduction into yoga and breath work in the hills of Andalusia[/paragraph]
 
@@ -560,7 +570,7 @@
 
 [paragraph left]My children ended up seeing me more on the TV screen than at home[/paragraph]
 
-[paragraph left]Veronika is diagnosed with cancer [/paragraph]
+[paragraph left]Veronika is (falsely <- this is for me, it will be deleted later) diagnosed with cancer [/paragraph]
 
 [paragraph left]Once in a while there comes the time when you stop and you ask yourself - What is it all for? All this travelling, all these documentaries you're making and then the apathy and despair creep in. With the power of your mind you keep pushing them away and the stronger you push them away the stronger they come back at you.[/paragraph]
 
@@ -572,13 +582,17 @@
 
 [paragraph left bold]TL;DR / Summmary [/paragraph]
 
-[paragraph left]Veronika is diagnosed with cancer [/paragraph]
+[paragraph left]Veronika is (falsely <- this is for me, it will be deleted later) diagnosed with cancer [/paragraph]
 
 [paragraph left]She decides to go to Thailand and maybe some other countries of South-East Asia to decide what to do next with her life[/paragraph]
 
 [chapter_title left bold]Getting friends with cold[/chapter_title]
 
 [paragraph left]Point of entry - Suvarnabhumi airport, Bangkok, December 2006 [/paragraph]
+
+[paragraph left]ยินดีต้อนรับสู่ประเทศไทย ดินแดนแห่งรอยยิ้ม[/paragraph]
+
+[paragraph left]Welcome in Thailand - land of smiles[/paragraph]
 
 [paragraph left]When you exist the pleasantly cool airport building, the wave of hot air hugs you with all it's might, like a child, who did see you for quite a long time, and the hot air hugs and kisses you. [/paragraph]
 
@@ -728,13 +742,19 @@
 
 [paragraph left]She was preparing herself (unconsciously) for swims with the ice swimmers [/paragraph]
 
-[paragraph left]later she swam with Stig Severinsen and she also swam with lesser known female ice swimmers like:Johanna NordbladElina Mäkinen Cold-water/ice swimming is literally about confronting death—numbing pain, controlled breath, pushing the body to the brink—and then emerging alive, exhilarated, reborn. It's the perfect metaphor for post-asylum Veronika: someone who has already "died" once and now actively seeks out near-death experiences not to end life, but to feel alive as intensely as possible. [/paragraph]
+[paragraph left]later she swam with Stig Severinsen and she also swam with lesser known female ice swimmers like:[/paragraph]
+
+[paragraph left]Johanna Nordblad[/paragraph]
+
+[paragraph left]Elina Mäkinen Cold[/paragraph]
+
+[paragraph left]water/ice swimming is literally about confronting death—numbing pain, controlled breath, pushing the body to the brink—and then emerging alive, exhilarated, reborn. It's the perfect metaphor for post-asylum Veronika: someone who has already "died" once and now actively seeks out near-death experiences not to end life, but to feel alive as intensely as possible. [/paragraph]
 
 [paragraph left bold]TL;DR / Summary[/paragraph]
 
 [paragraph left]Veronika makes a training with Ice man - Win Hoff [/paragraph]
 
-[paragraph left]Later she swims with other ice swimmers, as well[/paragraph]
+[paragraph left]Later she also swims with other ice swimmers[/paragraph]
 
 [chapter_title left bold]Madness or bravery[/chapter_title]
 
@@ -746,7 +766,7 @@
 
 [paragraph left bold]TL;DR / Summary[/paragraph]
 
-[paragraph left]Veronika swims unsupervised in Iceland [/paragraph]
+[paragraph left]Veronika swims unsupervised in ocean in Iceland [/paragraph]
 
 [chapter_title left bold]Wild wild everything[/chapter_title]
 
@@ -812,11 +832,45 @@
 
 [paragraph left]Move within UK near to the sea... (where to, exactly?)[/paragraph]
 
+[paragraph left]Swims in the ocean continue[/paragraph]
+
+[paragraph left]Sandra (and Ed - short for Eduard)[/paragraph]
+
+[paragraph left]She was a rather short woman with a pretty beautiful face. She was a true Berlin girl, who got used to living energy filled rapper style life.[/paragraph]
+
+[paragraph left]And even though she was mid thirties she still looked and had an appearance of a very young woman.[/paragraph]
+
+[paragraph left]She perfectly knew that he will never leave Veronika and she herself was quite comfortable in her marriage with her Austrian husband, who would never leave her unless she did really something outrangingly bad.[/paragraph]
+
+[paragraph left]And yet she was yearning their meet-ups and time spent together and she was looking forward to them.[/paragraph]
+
+[paragraph left]That's why she was actively arranging and representing his business affairs in Berlin another one of the majour world culture metropoles on our planet and she tried to organize his exhibitions as often as she only could with an excuse to pull him to Berlin.[/paragraph]
+
+[paragraph left]She earned these meets with him however short or long they were. And they were mostly rather short.[/paragraph]
+
+[paragraph left]What she loved about him were his friendliness and his stability - his appearance of a man, who has everything sorted, which is rather ... for an artist.[/paragraph]
+
+[paragraph left]Yes, he absolutely could be reclusive, an introvert as he was and she knew that, too. And this was adding charm to him, in her mind and in her eyes.[/paragraph]
+
+[paragraph left]He was rarely seen in public and she was able to part of his life even if for some very small amount of time[/paragraph]
+
+[paragraph left]***[/paragraph]
+
+[paragraph left]She was a petite woman with a strikingly beautiful face, a true Berlin girl, who had embraced an energy-charged, rapper-style life. Even in her mid-thirties, she maintained the fresh, youthful appearance of someone much younger.[/paragraph]
+
+[paragraph left]She knew full well that he would never leave Veronika, and she was content in her own marriage with her Austrian husband, who would only abandon her, if she did something truly outrageous. Still, she craved their secret rendezvous, no matter how brief, and anticipated them with eager excitement.[/paragraph]
+
+[paragraph left]That's why she took charge of his business affairs in Berlin—one of the world's major cultural metropolises—and worked tirelessly to organize his exhibitions as frequently as possible. It was her excuse to draw him back to the city, yearning those fleeting moments together. And they were mostly fleeting.[/paragraph]
+
+[paragraph left]What drew her to him was his warmth and unwavering stability—the aura of a man who had everything figured out, which was rare for an artist. Yes, he could be reclusive, a classic introvert as he was, and she knew that side of him too. But it only added to his charm in her eyes. He rarely appeared in public, making her feel privileged to be part of his world, even if only for a small sliver of time.[/paragraph]
+
 [paragraph left bold]WHAT IS IT ALL FOR?[/paragraph]
 
 [paragraph left bold]TL;DR / Summary[/paragraph]
 
-[paragraph left]tbd[/paragraph]
+[paragraph left]Veronika and Eduard move closer to the sea[/paragraph]
+
+[paragraph left]Veronika swims regularly in the ocean[/paragraph]
 
 [chapter_title left bold]Locked-in freedom[/chapter_title]
 
@@ -872,9 +926,11 @@
 
 [paragraph left]Eduard follows her later[/paragraph]
 
-[paragraph left]Almost one year later Zala goes to Colombia[/paragraph]
+[paragraph left]Only Luka stays in England[/paragraph]
 
-[paragraph left]Luka gets a proper girlfriend[/paragraph]
+[paragraph left]Luka gets a proper girlfriend / was rewarded by life[/paragraph]
+
+[paragraph left]Almost one year later Zala goes to Colombia[/paragraph]
 
 [chapter_title left bold]Roots and flames[/chapter_title]
 
@@ -882,7 +938,7 @@
 
 [paragraph left]As much as we knew the Gaziantep Oğuzeli International Airport (GZT) didn't suffer a lot of damage and it's runways remained in tact hence the airport became a critical hub for humanitarian aid and passenger movement and this is exactly where we flew to from Istanbul. She covers real 2023 events like Turkey-Syria quake (Feb, 50k+ dead—echoes 2010 disasters) I promise I'll be back for your birthday. [/paragraph]
 
-[paragraph left]Sex with with Matej (her videographer) - they confess to their partners that they have a relationship (Why???) [/paragraph]
+[paragraph left]Sex with with Matej (her videographer) - they confess to their partners that they have a relationship (Do they? Why???) [/paragraph]
 
 [paragraph left]INT - Eduard's painting studio - NIGHT[/paragraph]
 
@@ -896,7 +952,7 @@
 
 [paragraph left]ANA[/paragraph]
 
-[paragraph left]Hello Eduard. This is Ana, Matej's wife. Can I come? I'd like to talk with you. [/paragraph]
+[paragraph left]Hello Eduard. This is Ana, Matej's wife. Can I come to your house? I'd like to talk with you. [/paragraph]
 
 [paragraph left]EDUARD[/paragraph]
 
@@ -973,6 +1029,8 @@
 [chapter_title left bold]Now it's the time[/chapter_title]
 
 [paragraph left]to live fearlessly. [/paragraph]
+
+[paragraph left]"whose who live by other laws, and who are destined to die young" - V. Tsoy[/paragraph]
 
 [paragraph left]And I ended up in hospital, again. In a hospital similar to Villette [/paragraph]
 
@@ -1080,6 +1138,8 @@
 
 [chapter_title left bold]Veronika decides to live[/chapter_title]
 
+[paragraph left]"I'll sing with the voices of my children and their children" - Basta[/paragraph]
+
 [paragraph left]August 2025 [/paragraph]
 
 [paragraph left]EXT - streets of Gaza - DAY [/paragraph]
@@ -1134,6 +1194,14 @@
 
 [paragraph left]MATEJ (calling Eduard on the telephone)[/paragraph]
 
+[paragraph left]Hello Ed[/paragraph]
+
+[paragraph left]EDUARD[/paragraph]
+
+[paragraph left]Hello Matej[/paragraph]
+
+[paragraph left]MATEJ[/paragraph]
+
 [paragraph left]We finished filming. I turned around to pack the equipment. When I was finished packing and turned back to the place where Veronika was staying just to discover that she was gone. She told me something to my back, but I didn't pay attention, because I was busy packing. [/paragraph]
 
 [paragraph left]I don't know how to say it. [/paragraph]
@@ -1180,11 +1248,11 @@
 
 [paragraph left]VERONIKA II [/paragraph]
 
-[paragraph left]doesn't turn around. Stares at the wall. [/paragraph]
+[paragraph left](doesn't turn around. Stares at the wall. )[/paragraph]
 
-[paragraph left]VERONIKA II([/paragraph]
+[paragraph left]VERONIKA II[/paragraph]
 
-[paragraph left]flat, doing her a "favor")[/paragraph]
+[paragraph left](flat, doing her a "favor")[/paragraph]
 
 [paragraph left]Veronika. [/paragraph]
 
@@ -1198,7 +1266,11 @@
 
 [paragraph left](barely audible)[/paragraph]
 
-[paragraph left]Okay. She turns her back to Marija. Pulls the blanket over her head. Marija watches her for a moment—then goes back to knitting. She hums softly. A Slovenian folk song. [/paragraph]
+[paragraph left]Okay. [/paragraph]
+
+[paragraph left](She turns her back to Marija. Pulls the blanket over her head.) [/paragraph]
+
+[paragraph left]Marija watches her for a moment—then goes back to knitting. She hums softly. A Slovenian folk song. [/paragraph]
 
 [paragraph left]Later that day when Veronika is out of her room, Marija calls her daughter and asks her to bring two books. You, know Veronika ones. [/paragraph]
 
@@ -1232,15 +1304,21 @@
 
 [paragraph left](softer, to the book) [/paragraph]
 
-[paragraph left]But you tried. She places the book on the bedside table—carefully, like it's sacred. Reaches for the call button.Presses it.[/paragraph]
+[paragraph left]VO (Veronika II)[/paragraph]
+
+[paragraph left]But you tried. [/paragraph]
+
+[paragraph left]She places the book on the bedside table.[/paragraph]
 
 [paragraph left]VERONIKA II (CONT'D)[/paragraph]
 
 [paragraph left](to herself, almost a vow)[/paragraph]
 
-[paragraph left]Okay. I'll try, too.She looks back out the window. The city is still gray. But the light is different now. [/paragraph]
+[paragraph left]Okay. I'll try, too.[/paragraph]
 
-[paragraph left]CUT TO EXT - MOUNTAINS OVERLOOKING OCEAN - DAY [/paragraph]
+[paragraph left]She looks out the window. The city is still gray. But the light is different now. [/paragraph]
+
+[paragraph left]CUT TO: EXT - MOUNTAINS OVERLOOKING OCEAN - DAY [/paragraph]
 
 [paragraph left]VERONIKA, HER HUSBAND AND THEIR TWO CHILDREN are hiking in the mountains. [/paragraph]
 

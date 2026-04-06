@@ -1,3 +1,8 @@
+
+
+
+
+
 Life was just going full with all it's typical yearly events and some other less predictable stuffs 
 My children ended up seeing me more on the TV screen than at home
 Veronika is diagnosed with cancer 

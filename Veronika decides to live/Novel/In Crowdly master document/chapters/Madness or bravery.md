@@ -1,3 +1,8 @@
+
+
+
+
+
 Iceland July 2010 
 
 swimming in ice-cold waters alone
@@ -22,6 +27,11 @@ minimalism that fits the spirit of the original novel.
 
 **TL;DR / Summary**
 
+Veronika swims unsupervised in Iceland
+Veronika swims unsupervised in Iceland
+Veronika swims unsupervised in Iceland
+Veronika swims unsupervised in Iceland
+Veronika swims unsupervised in Iceland
 Veronika swims unsupervised in Iceland
 Veronika swims unsupervised in Iceland
 Veronika swims unsupervised in Iceland

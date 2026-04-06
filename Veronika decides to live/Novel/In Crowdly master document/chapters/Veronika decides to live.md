@@ -1,3 +1,8 @@
+
+
+
+
+
 EXT - on street in Gaza - DAY (Veronika speaks in Arabic to children she wants
 to lead to shelter) OS - COMMs between military COMMANDER There is something
 suspicions in the Sector XYZ. Send a drone there. DRONE PILOT Done, sir. CONT'D
@@ -113,6 +118,11 @@ suicide, once she gets out of the hospital
 Marija older woman gives her two books to read
 
 Veronika II many years later is hiking with her husband and their children in
+the mountains overlooking ocean
+the mountains overlooking ocean
+the mountains overlooking ocean
+the mountains overlooking ocean
+the mountains overlooking ocean
 the mountains overlooking ocean
 the mountains overlooking ocean
 the mountains overlooking ocean

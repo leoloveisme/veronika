@@ -1,3 +1,8 @@
+
+
+
+
+
 Now when you finished reading the book - Life is too short, no matter how many
 years you’ve lived and whatever you do with your life is up to you. But if this
 reaches you—reader, witness—remember: decide to live. Not just for yourself.

@@ -1,3 +1,8 @@
+
+
+
+
+
 Point of entry - Suvarnabhumi airport, Bangkok, December 2006
 
 When you exist the pleasantly cool airport building the wave of hot air hugs you with all might, like a child, who did see you for quite a long time, and the hot air hugs and kisses you.

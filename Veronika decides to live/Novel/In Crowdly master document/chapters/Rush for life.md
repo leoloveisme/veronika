@@ -1,3 +1,8 @@
+
+
+
+
+
 Auroville clinique coma & return to Slovenia 
 
 And I ended up in hospital, again. 

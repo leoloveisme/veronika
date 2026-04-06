@@ -96,6 +96,12 @@ Girlfriend of Luka (what's her name?) born 1994
 
 Russian / German from Dubai
 
+**Sandrda Winkler**
+
+beautiful petite woman in her mid-thirties
+She was a child of Portuguese father and Indian mother
+She spoke Portuguese, Hindi, English, Spanish and of course German
+
 **Dr. Igor**
 
 - The psychiatrist who "gave" Veronika life by lying about her heart condition

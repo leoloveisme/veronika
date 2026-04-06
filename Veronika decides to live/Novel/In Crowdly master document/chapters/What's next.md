@@ -1,3 +1,8 @@
+
+
+
+
+
 January 1999 Move to Switzerland, Bern 
 (Eduard's paintings are suddenly starting to sell / selling great there) 
 EXT - Panoramic aerial view of the houses - DAY 
