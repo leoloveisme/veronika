@@ -1,5 +1,3 @@
-
-
 Intro 
 Apocalypse now 
 Life goes on 
