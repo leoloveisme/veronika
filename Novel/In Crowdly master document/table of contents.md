@@ -2,7 +2,8 @@ Intro
 Apocalypse now 
 Life goes on 
 What’s next? 
-Preparing for India 
+Preparing for India
+India 
 Surprise? Surprise!
 - Fire 
 Hello Great Britain 
@@ -14,7 +15,7 @@ Getting friends with cold
 One, two, three - swimming we go 
 Madness or bravery 
 Wild wild everything 
-Latin America 
+Latin America (a bit boring - maybe I need a new chapter title here) 
 WHAT IS IT ALL FOR?
 Locked-in freedom
 Roots and flames	
