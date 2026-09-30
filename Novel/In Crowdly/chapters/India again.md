@@ -1,5 +1,7 @@
 # India again
 
+# India again
+
 In January 2025, I arrived in New Delhi with a camera crew, a notebook, and the peculiar feeling of returning to a place that had continued living without waiting for me. The city did not owe me the woman I had been on my first visit. I was older now. I had children who could cross oceans without asking my permission, a husband who was looking at farmland in Slovenia, and a colleague beside me whose place in my life I still could not describe in a sentence.
 
 Matej lifted the camera bag from the carousel and found me staring towards the doors.
@@ -89,23 +91,35 @@ Reference:
 New Delhi, January 2025
 
 (both work and off work) January 2025 New Delhi North India Chennai Auroville Now
+
 we are in Auroville, one of it's promises to build a town, where money wouldn't
+
 exist. We are going to investigate how it turned out to become. May 2025 We are
+
 here at the XYZ farm viper bite
 
-(both work and off work) New Delhi North India Chennai Auroville 
+(both work and off work) New Delhi North India Chennai Auroville
 
 Auroville, May
-2025 Now we are in Auroville, one of it's promises to build a town, where money
-wouldn't exist. We are going to investigate how it turned out to become. We are
-here at the Anapura farm "Watch out. Don't move." suddenly said Veronika to the
-videographer. "There is a snake behind you. DON'T MOVE." She picked a stick
-from the ground and tried to scare the snake away. And some other snake might
-have crawled away, not viper though. It jumped to attack Veronika and bit her
-into the left leg. 
 
-Viper bite 
+2025 Now we are in Auroville, one of it's promises to build a town, where money
+
+wouldn't exist. We are going to investigate how it turned out to become. We are
+
+here at the Anapura farm "Watch out. Don't move." suddenly said Veronika to the
+
+videographer. "There is a snake behind you. DON'T MOVE." She picked a stick
+
+from the ground and tried to scare the snake away. And some other snake might
+
+have crawled away, not viper though. It jumped to attack Veronika and bit her
+
+into the left leg.
+
+Viper bite
+
 According to people sayings snakes when they sense people crawl
+
 away, not viper though, viper jumps towards person and attacks
 
 **TL;DR / Summary**
@@ -113,4 +127,5 @@ away, not viper though, viper jumps towards person and attacks
 Veronika and her team travel in India making yet another documentary
 
 In Auroville Veronika gets bitten by a viper - poisonous snake
+
 *****
