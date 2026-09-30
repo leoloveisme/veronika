@@ -20,6 +20,16 @@ I did, and I didn't. I wanted him beside me on the journey. I also wanted to fin
 
 “Stay and paint,” I told him. “Come later, if you can.”
 
+He looked towards Luka, who was asleep in the next room. “Call me when you get there.”
+
+“I will.”
+
+“And when you go somewhere else.”
+
+“I won't spend the whole trip beside a telephone.”
+
+“I know.” He kissed the top of my head. “Call anyway.”
+
 The trip to Vienna was a rehearsal for the larger one. I left Bern with Luka, the folder, a bag of his clothes, a bag of mine, and the ridiculous belief that I could keep them all within reach. By the time we arrived, a clean shirt had gone missing, one of the papers had slipped from its place, and Luka had fallen asleep just as I needed him awake.
 
 At the Indian consulate I waited with him against my shoulder. When our turn came, the clerk examined the application and looked up at me.
@@ -76,15 +86,7 @@ In the morning Eduard drove us to the airport. He lifted the bags out of the car
 
 At the gate I kissed Eduard and took our son from him. He smoothed Luka's hair, then touched my cheek.
 
-“Call me when you get there,” he said.
-
-“I will.”
-
-“And when you go somewhere else.”
-
-“I won't spend the whole trip beside a telephone.”
-
-“I know.” He kissed the top of my head. “Call anyway.”
+“Call,” he said.
 
 “When we arrive.”
 
