@@ -1,5 +1,7 @@
 # Rush for life
 
+# Rush for life
+
 The first thing I noticed was how everyone else became calm. At the farm, Matej spoke into his telephone with one hand pressed against his ear. The woman who had shown us the fields told me to keep my leg still. Another person went to meet the vehicle that would take us to a clinic. I wanted them to hurry. I wanted them to stop looking at the two marks above my ankle.
 
 “I can walk,” I said.
@@ -74,15 +76,16 @@ In Ljubljana, another team was waiting. They took over without asking Eduard to 
 
 Reference:
 
-Auroville clinique coma & return to Slovenia 
+Auroville clinique coma & return to Slovenia
 
-And I ended up in hospital, again. 
+And I ended up in hospital, again.
 
-This chapter describes the quest of getting Veronika in time for saving her life. 
+This chapter describes the quest of getting Veronika in time for saving her life.
 
 **TL;DR / Summary**
 
 Veronika is rushed into a hospital in Auroville
 
 She gets into coma and is flown into Slovenia
+
 *****
