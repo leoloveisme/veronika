@@ -1,5 +1,7 @@
 # Latin America
 
+# Latin America
+
 I crossed into Mexico with a suitcase full of clothes I had chosen for the United States. They were wrong for the heat, and I was tired of opening that suitcase in a new room every few nights. During the American assignment, the crew and I had travelled enormous distances and brought home the footage to prove it. When the work ended, I could still hear the rhythm of the next appointment in my head.
 
 This time I was travelling without a crew. Nobody was expecting a report from me by evening. I had told Eduard I would spend some time in Mexico before coming home, and he had asked me to decide what *some time* meant once I arrived. I promised to call the children. I did not promise an itinerary I knew I would change.
@@ -58,13 +60,18 @@ Eduard met me at the airport. He took the suitcase and kissed me while people mo
 
 Reference:
 
-(off work) 
-Mexico 
-Auyaska experience 
-Money open doors and because some of the Eastern Europeans are not easy to cheet, money usually leads us to the desired outcomes, not always but usually. Yes, they are some sophisticated cheaters and sometimes, even we East-Europeans fall for scams. Thanks to my journalist work and to my documentaries some people would recognise me on the streets, that's why it was relatively easy to find the right people, who would lead me to the people who could offer me the experience from the very first hands 
+(off work)
+
+Mexico
+
+Auyaska experience
+
+Money open doors and because some of the Eastern Europeans are not easy to cheet, money usually leads us to the desired outcomes, not always but usually. Yes, they are some sophisticated cheaters and sometimes, even we East-Europeans fall for scams. Thanks to my journalist work and to my documentaries some people would recognise me on the streets, that's why it was relatively easy to find the right people, who would lead me to the people who could offer me the experience from the very first hands
+
 Sex during Auyaska? (who with - who is the lucky man; who are the lucky beings. was (s)he / they also under the influence of the substance - what is the story here? who? how? why?)(do I really want to have it in the book) TBD
 
 **TL;DR / Summary**
 
 Veronika gets her Auyaska experience in Latin Amerika
+
 *****
