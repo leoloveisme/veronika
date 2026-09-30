@@ -1,5 +1,7 @@
 # Hello Great Britain
 
+# Hello Great Britain
+
 For weeks after we returned from India, Eduard woke whenever he smelled smoke. The fire had followed us home in smaller ways. I checked the door to Luka's room before I went to bed. He checked it after me.
 
 Bern was safe, orderly, and suddenly difficult for me to breathe in. I had wanted to come home when we were in Goa. Once I was home, I kept looking at the closed suitcase and thinking about where it might go next. I was pregnant again. We would soon have two children. Leaving a place merely because I felt restless seemed irresponsible, which did not make the feeling disappear.
@@ -68,65 +70,72 @@ He smiled, then asked me to call when I arrived. He had been asking since India.
 
 Reference:
 
-Switzerland and all it's rules are suffocating 
+Switzerland and all it's rules are suffocating
 
 VERONIKA
 
 I don't know where this idea of a move to the UK came from, but we both almost
+
 in parallel decided, voiced and agreed on moving to the UK.
 
 UK would be a better place for both of us in terms of our creativity and
-international reach. 
 
-March 2000 - Move to UK 
+international reach.
 
-New broader market for Eduard 
+March 2000 - Move to UK
 
-Better writing reach for Veronika 
+New broader market for Eduard
 
-5 August 2000 birth of their daughter - Zala 
+Better writing reach for Veronika
 
-EPISODE INT - BEDROOM - NIGHT 
+5 August 2000 birth of their daughter - Zala
 
-(showing screams and tantrums of the baby girl and exhausted Veronika) 
+EPISODE INT - BEDROOM - NIGHT
 
-Move to the UK 
+(showing screams and tantrums of the baby girl and exhausted Veronika)
+
+Move to the UK
 
 Birth of their daughter - Zala
 
-Veronika's writing career takes off 
+Veronika's writing career takes off
 
 I was writing mainly for women, not exclusively, but primarily for women and I
+
 guess it is one of my female readres, who told her husband to get me to their
+
 TV station
 
 (actually it was a homosexual male, who told his partner, howewer I'll get to
+
 know about that years later and maybe it was a wife of one of the execs as
+
 well, this however I don't know for sure.)
 
 Maybe it was one of my posts in which I wrote what I would do differently, if I
+
 had a chance to change the UK's TV landscape.
 
 And some of my books also sell. Writing with an Eastern Europen humor about
-being a mother was surprisingly well received by the international auditories. 
+
+being a mother was surprisingly well received by the international auditories.
 
 Beginning of Veronika's TV career
 
-They (Veronika & Eduard) become VERY wealthy 
+They (Veronika & Eduard) become VERY wealthy
 
 **TL;DR / Summary**
 
 Switzerland and all it's strict rules are suffocating
 
-Move to the UK 
+Move to the UK
 
 Birth of their daughter - Zala
 
-Veronika's writing career takes off 
+Veronika's writing career takes off
 
 Beginning of Veronika's TV career
 
-They (Veronika & Eduard) become VERY wealthy 
-
+They (Veronika & Eduard) become VERY wealthy
 
 *****
