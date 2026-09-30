@@ -1,69 +1,72 @@
+# Life goes on
 
+EXT - LJUBLJANA - EARLY MORNING
 
+VERONIKA & EDUARD
 
+(are woken up by a police: police man and police woman)
 
+POLICEMAN
 
-EXT - LJUBLJANA - EARLY MORNING 
+You can go to the town hall to shelter yourself.
 
-VERONIKA & EDUARD 
+BLEND IN / QUICK ROLL
 
-(are woken up by a police: police man and police woman) 
+(quick roll of the events of the past night from escape till now)
 
-POLICEMAN 
+EDUARD
 
-You can go to the town hall to shelter yourself. 
+She... she's dead.
 
-BLEND IN / QUICK ROLL 
+VERONIKA
 
-(quick roll of the events of the past night from escape till now) 
+What's going on?
 
-EDUARD 
-
-She... she's dead. 
-
-VERONIKA 
-
-What's going on? 
-
-EDUARD 
+EDUARD
 
 Nothing. (helping Veronika to her feet) Or actually everything. You're alive.
+
 Tell me, how fucking amazing is that? (Or rather a miracle happened: it's
-another day of life. - original version from the book) 
 
-VERONIKA 
+another day of life. - original version from the book)
 
-Well, that sucks. What shall we do next? 
+VERONIKA
 
-EDUARD 
+Well, that sucks. What shall we do next?
 
-(jokingly) 
+EDUARD
 
-Let’s get married and have children. 
+(jokingly)
 
-FADE OUT TITLE - "Some time later" 
+Let’s get married and have children.
+
+FADE OUT TITLE - "Some time later"
 
 Eduard and Veronika got married and live in a house on land with Rduard's
-parents. 
+
+parents.
 
 Eduard's paintings "suddenly" starting to sell (his influential parents pulled
-the strings) 
+
+the strings)
 
 Infinite money glitch happened / discovered Eduard is very down to Earth and
-knows / assumes / has a hunch that the money glitch won't be forever 
 
-BLEND-IN 
+knows / assumes / has a hunch that the money glitch won't be forever
 
-(scene on TV from the cartoon " Трое из Простоквашино ") 
+BLEND-IN
 
-Matroskin cat on the bench saying: "I will save" 
+(scene on TV from the cartoon " Трое из Простоквашино ")
 
-https://www.youtube.com/watch?v=cK8af0m4HpA 
+Matroskin cat on the bench saying: "I will save"
+
+https://www.youtube.com/watch?v=cK8af0m4HpA
 
 His parents influence in Eduard's money savvy-ness (Matroskin cat mentality -
-I'll save) 
 
-Veronika starts writing 
+I'll save)
+
+Veronika starts writing
 
 **TL;DR / Summary**
 
