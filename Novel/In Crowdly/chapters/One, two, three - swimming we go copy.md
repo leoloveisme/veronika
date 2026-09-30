@@ -1,3 +1,5 @@
+# One, two, three - swimming we go copy
+
 # One, two, three - swimming we go
 
 I cannot tell you when I first decided to make a documentary about ice swimming. Perhaps I saw a short film, or heard someone describe the feeling of stepping into winter water. The idea had no single moment of arrival. By the time I noticed it, I had begun collecting names and asking the production team how far we could take a camera in the cold.
@@ -66,27 +68,32 @@ Years before the finished film reached viewers, I was already looking at photogr
 
 Reference:
 
-I honestly don't know when and how the idea of doing ice swims came to me. Maybe I saw some video, maybe I heard someone talking about it, however once the idea has crystalized in my head I decided that that's it - my next documentary.  
+I honestly don't know when and how the idea of doing ice swims came to me. Maybe I saw some video, maybe I heard someone talking about it, however once the idea has crystalized in my head I decided that that's it - my next documentary.
 
 Ice swimming.
 
-She was preparing herself (unconsciously) for swims with ice swimmers 
+She was preparing herself (unconsciously) for swims with ice swimmers
 
 (work)
+
 Training with Wim Hoff
+
 She came to do some footage for a documentary she was planning in her head
+
 (work)
 
-She met and swam with Iceman – Wim Hof; first, with some other participants of one of the courses he gives Women of beauty like hers don’t go unnoticed 
+She met and swam with Iceman – Wim Hof; first, with some other participants of one of the courses he gives Women of beauty like hers don’t go unnoticed
 
 later she swam with Stig Severinsen and she also swam with lesser known female ice swimmers like:Johanna Nordblad and Elina Mäkinen as a partt of the same ongoing documentary
 
-The documentary had included other footage which was taken of her with other participants and with other ice smimers such as Stig Severinsen, Johanna Nordblad and Elina Mäkinen 
+The documentary had included other footage which was taken of her with other participants and with other ice smimers such as Stig Severinsen, Johanna Nordblad and Elina Mäkinen
 
-The documentary was received with mixed feelings highly appraised by some and labelled as crazy and irresponsible by others 
+The documentary was received with mixed feelings highly appraised by some and labelled as crazy and irresponsible by others
 
 Cold-water/ice swimming is literally about confronting death—numbing pain, controlled breath, pushing the body to the brink—and then emerging alive, exhilarated, reborn. It's the perfect metaphor for post-asylum Veronika: someone who has already "died" once and now actively seeks out near-death experiences not to end life, but to feel alive as intensely as possible.
 
 **TL;DR / Summary**
+
 Veronika makes a training with Ice man - Win Hoff and swims with other ice swimmers
+
 *****
