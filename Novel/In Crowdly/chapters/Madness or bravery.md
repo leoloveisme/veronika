@@ -1,5 +1,7 @@
 # Madness or bravery
 
+# Madness or bravery
+
 Iceland, July 2010.
 
 I had travelled with swimmers who knew how to turn a winter morning into a shared occasion. In Poland, Wim Hof had guided us up and down a mountain in swimwear before we entered cold water together. Later I had filmed with people whose company made the first step easier. Someone always had a joke or a towel ready. Even when the water demanded my full attention, I knew where the others were.
@@ -86,24 +88,36 @@ I was due to leave for the United States next. My schedule was crowded again. Be
 
 Reference:
 
-Iceland July 2010 
+Iceland July 2010
 
 swimming in ice-cold waters alone
 
 swimming in ice-cold waters alone Now when I already swam with some of the
+
 world most renowned ice swimmers I also wanted to try the cold waters of
+
 Iceland. Is it a sign of bravery or a sigh of an absolute and sheer madness to
+
 wager into such a swim absolutely alone?It is way easier to swim with the
+
 others, however to do it completely alone… One needs to confront one’s own
+
 fears and either overcome them or succumb and surrender to them and this is
+
 exactly what I was doing when the thoughts of fear came to my headFuck it let’s
+
 do it, nothing is under control – is the motto which I welcomed into my life
+
 and was using when faced by situations of uncertainty, fear and even danger
+
 There are calculable risks and there is sheer madness and mad braveryWhat
+
 swimming alone is, only the time will show. Ask me later and I’ll tell you once
-I did / have done it. 
+
+I did / have done it.
 
 **TL;DR / Summary**
 
 Veronika swims unsupervised in Iceland
+
 *****
