@@ -1,3 +1,5 @@
+# what_is_it_ALL_for
+
 # WHAT IS IT ALL FOR?
 
 For years I had believed I needed to go farther to see more clearly. After Iceland, the United States, and Latin America, I came home wanting to know what would happen if we stayed somewhere long enough to notice it change.
@@ -80,19 +82,20 @@ By 2020 the question would meet a world that had begun to close its doors. For t
 
 Reference:
 
-2011 - 2020 
+2011 - 2020
 
-Move within UK near to the sea... (where to, exactly?) 
+Move within UK near to the sea... (where to, exactly?)
 
 When you escape the madness of the city and live on land, the questions which
-one pushes into the backgorund, resurface. 
+
+one pushes into the backgorund, resurface.
 
 One of the biggest questions which came back into the light for me was
 
 WHAT IS IT ALL FOR? our life? What do we live for? Watching children grow is
-entertaining and tiring alike, and then there was work. 
 
-TL;DR / Summary 
+entertaining and tiring alike, and then there was work.
 
+TL;DR / Summary
 
 *****
