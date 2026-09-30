@@ -39,6 +39,8 @@ You're braver than I am.
 
 <!-- Veronika's near-drowning as a child and the warning that she would die by drowning are in the novel chapter. Her hesitation at the water carries that history here without assigning a rescuer or staging an additional flashback. -->
 
+## Surprise? Surprise!
+
 EXT. YOGA SESSION, VARKALA - MORNING
 
 Mothers from several countries practice together. Some pause to feed their babies or retrieve a child crawling away. Veronika tends to Luka between movements.
