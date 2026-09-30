@@ -1,5 +1,7 @@
 # Wild wild everything
 
+# Wild wild everything
+
 Alaska, August 2010.
 
 In Iceland I had gone into the ocean alone. A few weeks later I arrived in the United States with a crew, a route pinned across a map, and more people waiting for answers than I could keep straight. Before I had collected my bag, someone asked what I thought of America. I said I had been in the country for less than an hour. He laughed and asked again when the camera was ready.
@@ -76,20 +78,22 @@ I put the telephone away and looked once more at the map. The line we had follow
 
 Reference:
 
-
-
-
-
-
 (work) Entering US in Alaska and going down the south of the continent FLY-INS
+
 (of the city names with Veronika staying in front of the camera at different
+
 locations and reporting from the places) Alaska Washington (state) - Seattle
+
 Oregon - Portland California (SF & LA) Las Vegas Chicago Boston New York
+
 Washington (DC) Florida Texas what else to show here? Grand Canyon? Children
+
 see her mother more on TV than at home in person and from the south of USA she
+
 went into Mexico.
 
 **TL;DR / Summary**
 
 Veronika's adventures in the US
+
 *****
